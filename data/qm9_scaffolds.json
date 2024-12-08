@@ -1,0 +1,7583 @@
+{
+  "molecule_42": {
+    "original_smiles": "CC1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_43": {
+    "original_smiles": "CC1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_44": {
+    "original_smiles": "CN1CC1",
+    "scaffold": "[1*]-N1-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_45": {
+    "original_smiles": "C1CC1O",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_85": {
+    "original_smiles": "CC1(CC1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_86": {
+    "original_smiles": "CC1(CO1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_87": {
+    "original_smiles": "CC1(CC1)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_94": {
+    "original_smiles": "CC1CCC1",
+    "scaffold": "[1*]-C1-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_95": {
+    "original_smiles": "CC1CCO1",
+    "scaffold": "[1*]-C1-C-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_96": {
+    "original_smiles": "CC1COC1",
+    "scaffold": "[1*]-C1-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_97": {
+    "original_smiles": "C1CC(C1)O",
+    "scaffold": "[1*]-C1-C-C-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_98": {
+    "original_smiles": "C1C(CO1)O",
+    "scaffold": "[1*]-C1-C-O-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_99": {
+    "original_smiles": "CC1CC1C",
+    "scaffold": "[1*]-C1-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_100": {
+    "original_smiles": "CC1CC1O",
+    "scaffold": "[1*]-C1-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_101": {
+    "original_smiles": "CC1CN1C",
+    "scaffold": "[1*]-C1-C-N-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_102": {
+    "original_smiles": "CC1OC1C",
+    "scaffold": "[1*]-C1-O-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_103": {
+    "original_smiles": "OC1CC1O",
+    "scaffold": "[1*]-C1-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[OH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_138": {
+    "original_smiles": "C#CC1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_139": {
+    "original_smiles": "C#CC1CN1",
+    "scaffold": "[1*]-C1-C-N-1",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_140": {
+    "original_smiles": "C#CC1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_141": {
+    "original_smiles": "C1CC1C#N",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_142": {
+    "original_smiles": "N#CC1CN1",
+    "scaffold": "[1*]-C1-C-N-1",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_143": {
+    "original_smiles": "N#CC1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_144": {
+    "original_smiles": "C1CC1C=O",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_145": {
+    "original_smiles": "O=CC1CN1",
+    "scaffold": "[1*]-C1-C-N-1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_146": {
+    "original_smiles": "O=CC1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_147": {
+    "original_smiles": "C1CN1C=O",
+    "scaffold": "[1*]-N1-C-C-1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_148": {
+    "original_smiles": "CCC1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_149": {
+    "original_smiles": "CCC1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_150": {
+    "original_smiles": "CCN1CC1",
+    "scaffold": "[1*]-N1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_151": {
+    "original_smiles": "COC1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[O]-[CH3]"
+    ]
+  },
+  "molecule_152": {
+    "original_smiles": "C1CC1CO",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_153": {
+    "original_smiles": "OCC1CN1",
+    "scaffold": "[1*]-C1-C-N-1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_154": {
+    "original_smiles": "OCC1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_180": {
+    "original_smiles": "C1CC(=NO)C1",
+    "scaffold": "[1*]-N=C1-C-C-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_181": {
+    "original_smiles": "C1C(=NO)CN1",
+    "scaffold": "[1*]-N=C1-C-N-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_182": {
+    "original_smiles": "C1C(=NO)CO1",
+    "scaffold": "[1*]-N=C1-C-O-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_189": {
+    "original_smiles": "Cc1ccc[nH]1",
+    "scaffold": "[1*]-c1:c:c:c:[nH]:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_190": {
+    "original_smiles": "Cc1ccco1",
+    "scaffold": "[1*]-c1:c:c:c:o:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_191": {
+    "original_smiles": "Cc1cnco1",
+    "scaffold": "[1*]-c1:c:n:c:o:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_192": {
+    "original_smiles": "Cc1ncco1",
+    "scaffold": "[1*]-c1:n:c:c:o:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_193": {
+    "original_smiles": "c1cc([nH]c1)N",
+    "scaffold": "[1*]-c1:c:c:c:[nH]:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_194": {
+    "original_smiles": "c1cc(oc1)N",
+    "scaffold": "[1*]-c1:c:c:c:o:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_195": {
+    "original_smiles": "c1c(ocn1)N",
+    "scaffold": "[1*]-c1:c:n:c:o:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_196": {
+    "original_smiles": "c1coc(n1)N",
+    "scaffold": "[1*]-c1:n:c:c:o:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_197": {
+    "original_smiles": "c1cc([nH]c1)O",
+    "scaffold": "[1*]-c1:c:c:c:[nH]:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_198": {
+    "original_smiles": "c1c([nH]cn1)O",
+    "scaffold": "[1*]-c1:c:n:c:[nH]:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_199": {
+    "original_smiles": "c1cnc([nH]1)O",
+    "scaffold": "[1*]-c1:n:c:c:[nH]:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_200": {
+    "original_smiles": "Cc1cc[nH]c1",
+    "scaffold": "[1*]-c1:c:c:[nH]:c:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_201": {
+    "original_smiles": "Cc1c[nH]cn1",
+    "scaffold": "[1*]-c1:c:[nH]:c:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_202": {
+    "original_smiles": "Cc1ccoc1",
+    "scaffold": "[1*]-c1:c:c:o:c:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_203": {
+    "original_smiles": "Cc1cocn1",
+    "scaffold": "[1*]-c1:c:o:c:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_204": {
+    "original_smiles": "c1c[nH]cc1N",
+    "scaffold": "[1*]-c1:c:c:[nH]:c:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_205": {
+    "original_smiles": "c1c(nc[nH]1)N",
+    "scaffold": "[1*]-c1:c:[nH]:c:n:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_206": {
+    "original_smiles": "c1cocc1N",
+    "scaffold": "[1*]-c1:c:c:o:c:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_207": {
+    "original_smiles": "c1c(nco1)N",
+    "scaffold": "[1*]-c1:c:o:c:n:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_208": {
+    "original_smiles": "c1c[nH]cc1O",
+    "scaffold": "[1*]-c1:c:c:[nH]:c:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_209": {
+    "original_smiles": "c1c(nc[nH]1)O",
+    "scaffold": "[1*]-c1:c:[nH]:c:n:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_210": {
+    "original_smiles": "c1c(nco1)O",
+    "scaffold": "[1*]-c1:c:o:c:n:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_211": {
+    "original_smiles": "Cn1cccc1",
+    "scaffold": "[1*]-n1:c:c:c:c:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_212": {
+    "original_smiles": "Cn1ccnc1",
+    "scaffold": "[1*]-n1:c:c:n:c:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_293": {
+    "original_smiles": "CC1(CCC1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_294": {
+    "original_smiles": "CC1(CCO1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_295": {
+    "original_smiles": "CC1(COC1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_296": {
+    "original_smiles": "CC1(CCC1)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_297": {
+    "original_smiles": "CC1(COC1)O",
+    "scaffold": "[1*]-C1(-[2*])-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_298": {
+    "original_smiles": "CC1(C)CC1O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[OH]"
+    ]
+  },
+  "molecule_299": {
+    "original_smiles": "CC1(O)CC1O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]",
+      "[3*]-[OH]"
+    ]
+  },
+  "molecule_300": {
+    "original_smiles": "CC1CC1(C)C",
+    "scaffold": "[1*]-C1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH3]"
+    ]
+  },
+  "molecule_301": {
+    "original_smiles": "CC1CC1(C)O",
+    "scaffold": "[1*]-C1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[OH]"
+    ]
+  },
+  "molecule_302": {
+    "original_smiles": "CC1OC1(C)C",
+    "scaffold": "[1*]-C1-O-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH3]"
+    ]
+  },
+  "molecule_303": {
+    "original_smiles": "CC1(CN1C)C",
+    "scaffold": "[1*]-C1(-[2*])-C-N-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[3*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_304": {
+    "original_smiles": "CC1CC(=N)O1",
+    "scaffold": "[1*]-C1-C-C(=N)-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_305": {
+    "original_smiles": "CC1CC(=O)C1",
+    "scaffold": "[1*]-C1-C-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_306": {
+    "original_smiles": "CC1CC(=O)N1",
+    "scaffold": "[1*]-C1-C-C(=O)-N-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_307": {
+    "original_smiles": "CC1CC(=O)O1",
+    "scaffold": "[1*]-C1-C-C(=O)-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_308": {
+    "original_smiles": "CN1CC(=O)C1",
+    "scaffold": "[1*]-N1-C-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_309": {
+    "original_smiles": "C1C(CC1=O)O",
+    "scaffold": "[1*]-C1-C-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_310": {
+    "original_smiles": "CC1CC(C)C1",
+    "scaffold": "[1*]-C1-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_311": {
+    "original_smiles": "CC1CC(C)O1",
+    "scaffold": "[1*]-C1-C-C(-[2*])-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_312": {
+    "original_smiles": "CC1CC(O)C1",
+    "scaffold": "[1*]-C1-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_313": {
+    "original_smiles": "CN1CC(C1)O",
+    "scaffold": "[1*]-N1-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_314": {
+    "original_smiles": "OC1CC(O)C1",
+    "scaffold": "[1*]-C1-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[OH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_315": {
+    "original_smiles": "CC12CC(C1)C2",
+    "scaffold": "[1*]-C12-C-C(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_316": {
+    "original_smiles": "CC12CC(C1)O2",
+    "scaffold": "[1*]-C12-C-C(-C-1)-O-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_317": {
+    "original_smiles": "CC12CN(C1)C2",
+    "scaffold": "[1*]-C12-C-N(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_318": {
+    "original_smiles": "OC12CC(C1)C2",
+    "scaffold": "[1*]-C12-C-C(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_319": {
+    "original_smiles": "OC12CN(C1)C2",
+    "scaffold": "[1*]-C12-C-N(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_397": {
+    "original_smiles": "CC1(CC1)C#C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[CH]"
+    ]
+  },
+  "molecule_398": {
+    "original_smiles": "CC1(CC1)C#N",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[N]"
+    ]
+  },
+  "molecule_399": {
+    "original_smiles": "CC1(CN1)C#C",
+    "scaffold": "[1*]-C1(-[2*])-C-N-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[CH]"
+    ]
+  },
+  "molecule_400": {
+    "original_smiles": "CC1(CN1)C#N",
+    "scaffold": "[1*]-C1(-[2*])-C-N-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[N]"
+    ]
+  },
+  "molecule_401": {
+    "original_smiles": "CC1(CO1)C#C",
+    "scaffold": "[1*]-C1(-[2*])-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[CH]"
+    ]
+  },
+  "molecule_402": {
+    "original_smiles": "CC1(CO1)C#N",
+    "scaffold": "[1*]-C1(-[2*])-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[N]"
+    ]
+  },
+  "molecule_403": {
+    "original_smiles": "C1CC1(C#N)N",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[C]#[N]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_404": {
+    "original_smiles": "C#CC1(CC1)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[C]#[CH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_405": {
+    "original_smiles": "C1CC1(C#N)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[C]#[N]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_406": {
+    "original_smiles": "CC1(CC1)C=O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH]=[O]"
+    ]
+  },
+  "molecule_407": {
+    "original_smiles": "CC1(CN1)C=O",
+    "scaffold": "[1*]-C1(-[2*])-C-N-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH]=[O]"
+    ]
+  },
+  "molecule_408": {
+    "original_smiles": "CC1(CO1)C=O",
+    "scaffold": "[1*]-C1(-[2*])-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH]=[O]"
+    ]
+  },
+  "molecule_409": {
+    "original_smiles": "C1CC1(C=O)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH]=[O]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_410": {
+    "original_smiles": "CC1(CC1)CO",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_411": {
+    "original_smiles": "CC1(CO)CN1",
+    "scaffold": "[1*]-C1(-[2*])-C-N-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_412": {
+    "original_smiles": "CC1(CO)CO1",
+    "scaffold": "[1*]-C1(-[2*])-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_413": {
+    "original_smiles": "CCC1(CC1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_414": {
+    "original_smiles": "CCC1(C)CO1",
+    "scaffold": "[1*]-C1(-[2*])-C-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_415": {
+    "original_smiles": "CCC1(CC1)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_416": {
+    "original_smiles": "CC1(CC1)OC",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[O]-[CH3]"
+    ]
+  },
+  "molecule_417": {
+    "original_smiles": "C1CC1(CO)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_418": {
+    "original_smiles": "CC1CCC1=O",
+    "scaffold": "[1*]-C1-C-C-C-1=O",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_419": {
+    "original_smiles": "CC1CNC1=O",
+    "scaffold": "[1*]-C1-C-N-C-1=O",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_420": {
+    "original_smiles": "CC1COC1=N",
+    "scaffold": "[1*]-C1-C-O-C-1=N",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_421": {
+    "original_smiles": "CC1COC1=O",
+    "scaffold": "[1*]-C1-C-O-C-1=O",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_422": {
+    "original_smiles": "CC1NCC1=O",
+    "scaffold": "[1*]-C1-N-C-C-1=O",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_423": {
+    "original_smiles": "CC1OCC1=O",
+    "scaffold": "[1*]-C1-O-C-C-1=O",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_424": {
+    "original_smiles": "CN1CCC1=O",
+    "scaffold": "[1*]-N1-C-C-C-1=O",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_425": {
+    "original_smiles": "NC1COC1=N",
+    "scaffold": "[1*]-C1-C-O-C-1=N",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_426": {
+    "original_smiles": "NC1COC1=O",
+    "scaffold": "[1*]-C1-C-O-C-1=O",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_427": {
+    "original_smiles": "OC1CCC1=O",
+    "scaffold": "[1*]-C1-C-C-C-1=O",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_428": {
+    "original_smiles": "OC1CNC1=O",
+    "scaffold": "[1*]-C1-C-N-C-1=O",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_429": {
+    "original_smiles": "OC1COC1=N",
+    "scaffold": "[1*]-C1-C-O-C-1=N",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_430": {
+    "original_smiles": "OC1COC1=O",
+    "scaffold": "[1*]-C1-C-O-C-1=O",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_431": {
+    "original_smiles": "CC1CCC1C",
+    "scaffold": "[1*]-C1-C-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_432": {
+    "original_smiles": "CC1CCC1O",
+    "scaffold": "[1*]-C1-C-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_433": {
+    "original_smiles": "CC1COC1C",
+    "scaffold": "[1*]-C1-C-O-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_434": {
+    "original_smiles": "CC1OCC1O",
+    "scaffold": "[1*]-C1-O-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_435": {
+    "original_smiles": "OC1CCC1O",
+    "scaffold": "[1*]-C1-C-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[OH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_455": {
+    "original_smiles": "CC1=CCCC1",
+    "scaffold": "[1*]-C1=C-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_456": {
+    "original_smiles": "CC1=CCOC1",
+    "scaffold": "[1*]-C1=C-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_457": {
+    "original_smiles": "CC1=NCCO1",
+    "scaffold": "[1*]-C1=N-C-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_458": {
+    "original_smiles": "CC1CC=CC1",
+    "scaffold": "[1*]-C1-C-C=C-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_459": {
+    "original_smiles": "CC1CN=CO1",
+    "scaffold": "[1*]-C1-C-N=C-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_460": {
+    "original_smiles": "OC1CC=CC1",
+    "scaffold": "[1*]-C1-C-C=C-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_461": {
+    "original_smiles": "CC1CCC=C1",
+    "scaffold": "[1*]-C1-C=C-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_462": {
+    "original_smiles": "CC1COC=N1",
+    "scaffold": "[1*]-C1-C-O-C=N-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_463": {
+    "original_smiles": "CC1OCC=C1",
+    "scaffold": "[1*]-C1-C=C-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_464": {
+    "original_smiles": "OC1CCC=C1",
+    "scaffold": "[1*]-C1-C=C-C-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_465": {
+    "original_smiles": "CC1CCCC1",
+    "scaffold": "[1*]-C1-C-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_466": {
+    "original_smiles": "CC1CCCO1",
+    "scaffold": "[1*]-C1-C-C-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_467": {
+    "original_smiles": "CC1CCOC1",
+    "scaffold": "[1*]-C1-C-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_468": {
+    "original_smiles": "CC1COCO1",
+    "scaffold": "[1*]-C1-C-O-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_469": {
+    "original_smiles": "CC1OCCO1",
+    "scaffold": "[1*]-C1-O-C-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_470": {
+    "original_smiles": "C1CCC(C1)O",
+    "scaffold": "[1*]-C1-C-C-C-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_471": {
+    "original_smiles": "OC1CCOC1",
+    "scaffold": "[1*]-C1-C-C-O-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_472": {
+    "original_smiles": "CC1C(C)C1C",
+    "scaffold": "[1*]-C1-C(-[2*])-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH3]"
+    ]
+  },
+  "molecule_473": {
+    "original_smiles": "CC1C(C)C1O",
+    "scaffold": "[1*]-C1-C(-[2*])-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[OH]"
+    ]
+  },
+  "molecule_474": {
+    "original_smiles": "CC1C(C)N1C",
+    "scaffold": "[1*]-C1-C(-[2*])-N-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH3]"
+    ]
+  },
+  "molecule_475": {
+    "original_smiles": "CC1C(O)C1O",
+    "scaffold": "[1*]-C1-C(-[2*])-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]",
+      "[3*]-[OH]"
+    ]
+  },
+  "molecule_476": {
+    "original_smiles": "OC1C(O)C1O",
+    "scaffold": "[1*]-C1-C(-[2*])-C-1-[3*]",
+    "fragments": [
+      "[1*]-[OH]",
+      "[2*]-[OH]",
+      "[3*]-[OH]"
+    ]
+  },
+  "molecule_477": {
+    "original_smiles": "CC12CC1CC2",
+    "scaffold": "[1*]-C12-C-C-C-1-C-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_478": {
+    "original_smiles": "CC12CC1CO2",
+    "scaffold": "[1*]-C12-C-C-1-C-O-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_479": {
+    "original_smiles": "CC12CC1OC2",
+    "scaffold": "[1*]-C12-C-O-C-1-C-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_480": {
+    "original_smiles": "CC12CCC1O2",
+    "scaffold": "[1*]-C12-C-C-C-1-O-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_481": {
+    "original_smiles": "OC12CC1CC2",
+    "scaffold": "[1*]-C12-C-C-C-1-C-2",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_482": {
+    "original_smiles": "OC12CC1OC2",
+    "scaffold": "[1*]-C12-C-O-C-1-C-2",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_550": {
+    "original_smiles": "C#CC1CCC1",
+    "scaffold": "[1*]-C1-C-C-C-1",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_551": {
+    "original_smiles": "C#CC1CCO1",
+    "scaffold": "[1*]-C1-C-C-O-1",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_552": {
+    "original_smiles": "C#CC1COC1",
+    "scaffold": "[1*]-C1-C-O-C-1",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_553": {
+    "original_smiles": "C1CC(C1)C#N",
+    "scaffold": "[1*]-C1-C-C-C-1",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_554": {
+    "original_smiles": "N#CC1CCN1",
+    "scaffold": "[1*]-C1-C-C-N-1",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_555": {
+    "original_smiles": "N#CC1CCO1",
+    "scaffold": "[1*]-C1-C-C-O-1",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_556": {
+    "original_smiles": "C1C(CO1)C#N",
+    "scaffold": "[1*]-C1-C-O-C-1",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_557": {
+    "original_smiles": "C1CC(C1)C=O",
+    "scaffold": "[1*]-C1-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_558": {
+    "original_smiles": "O=CC1CCO1",
+    "scaffold": "[1*]-C1-C-C-O-1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_559": {
+    "original_smiles": "C1C(CO1)C=O",
+    "scaffold": "[1*]-C1-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_560": {
+    "original_smiles": "C1CN(C1)C=O",
+    "scaffold": "[1*]-N1-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_561": {
+    "original_smiles": "CN=C1CCO1",
+    "scaffold": "[1*]-N=C1-C-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_562": {
+    "original_smiles": "CCC1CCC1",
+    "scaffold": "[1*]-C1-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_563": {
+    "original_smiles": "CCC1CCO1",
+    "scaffold": "[1*]-C1-C-C-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_564": {
+    "original_smiles": "CCC1COC1",
+    "scaffold": "[1*]-C1-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_565": {
+    "original_smiles": "COC1CCC1",
+    "scaffold": "[1*]-C1-C-C-C-1",
+    "fragments": [
+      "[1*]-[O]-[CH3]"
+    ]
+  },
+  "molecule_566": {
+    "original_smiles": "COC1COC1",
+    "scaffold": "[1*]-C1-C-O-C-1",
+    "fragments": [
+      "[1*]-[O]-[CH3]"
+    ]
+  },
+  "molecule_567": {
+    "original_smiles": "C1CC(C1)CO",
+    "scaffold": "[1*]-C1-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_568": {
+    "original_smiles": "OCC1CCO1",
+    "scaffold": "[1*]-C1-C-C-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_569": {
+    "original_smiles": "C1C(CO1)CO",
+    "scaffold": "[1*]-C1-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_570": {
+    "original_smiles": "C#CCC1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[C]#[CH]"
+    ]
+  },
+  "molecule_571": {
+    "original_smiles": "C#CCC1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[C]#[CH]"
+    ]
+  },
+  "molecule_572": {
+    "original_smiles": "C#CCN1CC1",
+    "scaffold": "[1*]-N1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[C]#[CH]"
+    ]
+  },
+  "molecule_573": {
+    "original_smiles": "C1CC1CC#N",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[C]#[N]"
+    ]
+  },
+  "molecule_574": {
+    "original_smiles": "N#CCC1CN1",
+    "scaffold": "[1*]-C1-C-N-1",
+    "fragments": [
+      "[1*]-[CH2]-[C]#[N]"
+    ]
+  },
+  "molecule_575": {
+    "original_smiles": "N#CCC1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[C]#[N]"
+    ]
+  },
+  "molecule_576": {
+    "original_smiles": "C1CN1CC#N",
+    "scaffold": "[1*]-N1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[C]#[N]"
+    ]
+  },
+  "molecule_577": {
+    "original_smiles": "N=COC1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[O]-[CH]=[NH]"
+    ]
+  },
+  "molecule_578": {
+    "original_smiles": "C1CC1CC=O",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH]=[O]"
+    ]
+  },
+  "molecule_579": {
+    "original_smiles": "O=CCC1CN1",
+    "scaffold": "[1*]-C1-C-N-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH]=[O]"
+    ]
+  },
+  "molecule_580": {
+    "original_smiles": "O=CCC1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH]=[O]"
+    ]
+  },
+  "molecule_581": {
+    "original_smiles": "C1CN1CC=O",
+    "scaffold": "[1*]-N1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH]=[O]"
+    ]
+  },
+  "molecule_582": {
+    "original_smiles": "C1CC1NC=O",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[NH]-[CH]=[O]"
+    ]
+  },
+  "molecule_583": {
+    "original_smiles": "C1CC1OC=O",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[O]-[CH]=[O]"
+    ]
+  },
+  "molecule_584": {
+    "original_smiles": "CC#CC1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[C]#[C]-[CH3]"
+    ]
+  },
+  "molecule_585": {
+    "original_smiles": "CC#CC1CN1",
+    "scaffold": "[1*]-C1-C-N-1",
+    "fragments": [
+      "[1*]-[C]#[C]-[CH3]"
+    ]
+  },
+  "molecule_586": {
+    "original_smiles": "CC#CC1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[C]#[C]-[CH3]"
+    ]
+  },
+  "molecule_587": {
+    "original_smiles": "CCCC1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_588": {
+    "original_smiles": "CCCC1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_589": {
+    "original_smiles": "CCCN1CC1",
+    "scaffold": "[1*]-N1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_590": {
+    "original_smiles": "CCOC1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[O]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_591": {
+    "original_smiles": "COCC1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[O]-[CH3]"
+    ]
+  },
+  "molecule_592": {
+    "original_smiles": "COCC1CN1",
+    "scaffold": "[1*]-C1-C-N-1",
+    "fragments": [
+      "[1*]-[CH2]-[O]-[CH3]"
+    ]
+  },
+  "molecule_593": {
+    "original_smiles": "COCC1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[O]-[CH3]"
+    ]
+  },
+  "molecule_594": {
+    "original_smiles": "C1CC1CCO",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_595": {
+    "original_smiles": "OCCC1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_596": {
+    "original_smiles": "C1CN1CCO",
+    "scaffold": "[1*]-N1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_597": {
+    "original_smiles": "CC1CC1C#C",
+    "scaffold": "[1*]-C1-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[CH]"
+    ]
+  },
+  "molecule_598": {
+    "original_smiles": "CC1CC1C#N",
+    "scaffold": "[1*]-C1-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[N]"
+    ]
+  },
+  "molecule_599": {
+    "original_smiles": "CC1NC1C#C",
+    "scaffold": "[1*]-C1-N-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[CH]"
+    ]
+  },
+  "molecule_600": {
+    "original_smiles": "CC1NC1C#N",
+    "scaffold": "[1*]-C1-N-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[N]"
+    ]
+  },
+  "molecule_601": {
+    "original_smiles": "CC1OC1C#C",
+    "scaffold": "[1*]-C1-O-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[CH]"
+    ]
+  },
+  "molecule_602": {
+    "original_smiles": "CC1OC1C#N",
+    "scaffold": "[1*]-C1-O-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[N]"
+    ]
+  },
+  "molecule_603": {
+    "original_smiles": "CN1CC1C#C",
+    "scaffold": "[1*]-N1-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[CH]"
+    ]
+  },
+  "molecule_604": {
+    "original_smiles": "CN1CC1C#N",
+    "scaffold": "[1*]-N1-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[N]"
+    ]
+  },
+  "molecule_605": {
+    "original_smiles": "OC1CC1C#C",
+    "scaffold": "[1*]-C1-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[OH]",
+      "[2*]-[C]#[CH]"
+    ]
+  },
+  "molecule_606": {
+    "original_smiles": "OC1CC1C#N",
+    "scaffold": "[1*]-C1-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[OH]",
+      "[2*]-[C]#[N]"
+    ]
+  },
+  "molecule_607": {
+    "original_smiles": "CC1CC1C=O",
+    "scaffold": "[1*]-C1-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH]=[O]"
+    ]
+  },
+  "molecule_608": {
+    "original_smiles": "CC1CN1C=O",
+    "scaffold": "[1*]-C1-C-N-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH]=[O]"
+    ]
+  },
+  "molecule_609": {
+    "original_smiles": "CC1NC1C=O",
+    "scaffold": "[1*]-C1-N-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH]=[O]"
+    ]
+  },
+  "molecule_610": {
+    "original_smiles": "CC1OC1C=O",
+    "scaffold": "[1*]-C1-O-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH]=[O]"
+    ]
+  },
+  "molecule_611": {
+    "original_smiles": "CN1CC1C=O",
+    "scaffold": "[1*]-N1-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH]=[O]"
+    ]
+  },
+  "molecule_612": {
+    "original_smiles": "OC1CC1C=O",
+    "scaffold": "[1*]-C1-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[OH]",
+      "[2*]-[CH]=[O]"
+    ]
+  },
+  "molecule_613": {
+    "original_smiles": "CC1CC1CO",
+    "scaffold": "[1*]-C1-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_614": {
+    "original_smiles": "CC1NC1CO",
+    "scaffold": "[1*]-C1-N-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_615": {
+    "original_smiles": "CC1OC1CO",
+    "scaffold": "[1*]-C1-O-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_616": {
+    "original_smiles": "CCC1CC1C",
+    "scaffold": "[1*]-C1-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_617": {
+    "original_smiles": "CCC1CC1O",
+    "scaffold": "[1*]-C1-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_618": {
+    "original_smiles": "CCC1CN1C",
+    "scaffold": "[1*]-C1-C-N-1-[2*]",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_619": {
+    "original_smiles": "CCC1OC1C",
+    "scaffold": "[1*]-C1-O-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_620": {
+    "original_smiles": "CCN1CC1C",
+    "scaffold": "[1*]-N1-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_621": {
+    "original_smiles": "CN1CC1CO",
+    "scaffold": "[1*]-N1-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_622": {
+    "original_smiles": "COC1CC1C",
+    "scaffold": "[1*]-C1-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[O]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_623": {
+    "original_smiles": "COC1CC1O",
+    "scaffold": "[1*]-C1-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[O]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_624": {
+    "original_smiles": "OCC1CC1O",
+    "scaffold": "[1*]-C1-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[CH2]-[OH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_625": {
+    "original_smiles": "CC(=O)C1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[C](-[CH3])=[O]"
+    ]
+  },
+  "molecule_626": {
+    "original_smiles": "CC(=O)C1CN1",
+    "scaffold": "[1*]-C1-C-N-1",
+    "fragments": [
+      "[1*]-[C](-[CH3])=[O]"
+    ]
+  },
+  "molecule_627": {
+    "original_smiles": "CC(=O)C1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[C](-[CH3])=[O]"
+    ]
+  },
+  "molecule_628": {
+    "original_smiles": "CC(=O)N1CC1",
+    "scaffold": "[1*]-N1-C-C-1",
+    "fragments": [
+      "[1*]-[C](-[CH3])=[O]"
+    ]
+  },
+  "molecule_629": {
+    "original_smiles": "C1CC1C(=O)N",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[C](-[NH2])=[O]"
+    ]
+  },
+  "molecule_630": {
+    "original_smiles": "NC(=O)C1CN1",
+    "scaffold": "[1*]-C1-C-N-1",
+    "fragments": [
+      "[1*]-[C](-[NH2])=[O]"
+    ]
+  },
+  "molecule_631": {
+    "original_smiles": "NC(=O)C1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[C](-[NH2])=[O]"
+    ]
+  },
+  "molecule_632": {
+    "original_smiles": "C1CN1C(=O)N",
+    "scaffold": "[1*]-N1-C-C-1",
+    "fragments": [
+      "[1*]-[C](-[NH2])=[O]"
+    ]
+  },
+  "molecule_633": {
+    "original_smiles": "CC(C)C1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[CH](-[CH3])-[CH3]"
+    ]
+  },
+  "molecule_634": {
+    "original_smiles": "CC(C)C1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[CH](-[CH3])-[CH3]"
+    ]
+  },
+  "molecule_635": {
+    "original_smiles": "CC(C)N1CC1",
+    "scaffold": "[1*]-N1-C-C-1",
+    "fragments": [
+      "[1*]-[CH](-[CH3])-[CH3]"
+    ]
+  },
+  "molecule_636": {
+    "original_smiles": "CC(O)C1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[CH](-[CH3])-[OH]"
+    ]
+  },
+  "molecule_637": {
+    "original_smiles": "CC(O)C1CN1",
+    "scaffold": "[1*]-C1-C-N-1",
+    "fragments": [
+      "[1*]-[CH](-[CH3])-[OH]"
+    ]
+  },
+  "molecule_638": {
+    "original_smiles": "CC(O)C1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[CH](-[CH3])-[OH]"
+    ]
+  },
+  "molecule_650": {
+    "original_smiles": "CC1C2CC1C2",
+    "scaffold": "[1*]-C1-C2-C-C-1-C-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_651": {
+    "original_smiles": "CC1C2CC1O2",
+    "scaffold": "[1*]-C1-C2-C-C-1-O-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_652": {
+    "original_smiles": "OC1C2CC1C2",
+    "scaffold": "[1*]-C1-C2-C-C-1-C-2",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_653": {
+    "original_smiles": "OC1C2CC1O2",
+    "scaffold": "[1*]-C1-C2-C-C-1-O-2",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_664": {
+    "original_smiles": "CC1C2CCC12",
+    "scaffold": "[1*]-C1-C2-C-C-C-1-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_665": {
+    "original_smiles": "CC1C2COC12",
+    "scaffold": "[1*]-C1-C2-C-O-C-1-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_666": {
+    "original_smiles": "OC1C2CCC12",
+    "scaffold": "[1*]-C1-C2-C-C-C-1-2",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_667": {
+    "original_smiles": "OC1C2COC12",
+    "scaffold": "[1*]-C1-C2-C-O-C-1-2",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_687": {
+    "original_smiles": "CC1CC2CC12",
+    "scaffold": "[1*]-C1-C-C2-C-C-1-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_688": {
+    "original_smiles": "CC1CC2OC12",
+    "scaffold": "[1*]-C1-C-C2-O-C-1-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_689": {
+    "original_smiles": "CC1OC2CC12",
+    "scaffold": "[1*]-C1-O-C2-C-C-1-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_690": {
+    "original_smiles": "OC1CC2CC12",
+    "scaffold": "[1*]-C1-C-C2-C-C-1-2",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_691": {
+    "original_smiles": "OC1CC2NC12",
+    "scaffold": "[1*]-C1-C-C2-N-C-1-2",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_692": {
+    "original_smiles": "OC1CC2OC12",
+    "scaffold": "[1*]-C1-C-C2-O-C-1-2",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_693": {
+    "original_smiles": "OC1CN2CC12",
+    "scaffold": "[1*]-C1-C-N2-C-C-1-2",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_725": {
+    "original_smiles": "Cc1ccn[nH]1",
+    "scaffold": "[1*]-c1:c:c:n:[nH]:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_726": {
+    "original_smiles": "Cc1ccno1",
+    "scaffold": "[1*]-c1:c:c:n:o:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_727": {
+    "original_smiles": "Cc1cnn[nH]1",
+    "scaffold": "[1*]-c1:c:n:n:[nH]:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_728": {
+    "original_smiles": "Cc1cnno1",
+    "scaffold": "[1*]-c1:c:n:n:o:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_729": {
+    "original_smiles": "Cc1c[nH]nc1",
+    "scaffold": "[1*]-c1:c:n:[nH]:c:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_730": {
+    "original_smiles": "Cc1c[nH]nn1",
+    "scaffold": "[1*]-c1:c:[nH]:n:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_731": {
+    "original_smiles": "Cc1cnoc1",
+    "scaffold": "[1*]-c1:c:n:o:c:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_732": {
+    "original_smiles": "Cc1conn1",
+    "scaffold": "[1*]-c1:c:o:n:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_733": {
+    "original_smiles": "Cc1[nH]ncn1",
+    "scaffold": "[1*]-c1:n:c:n:[nH]:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_734": {
+    "original_smiles": "Cc1ncno1",
+    "scaffold": "[1*]-c1:n:c:n:o:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_735": {
+    "original_smiles": "Cc1cc[nH]n1",
+    "scaffold": "[1*]-c1:c:c:[nH]:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_736": {
+    "original_smiles": "Cc1nc[nH]n1",
+    "scaffold": "[1*]-c1:n:c:[nH]:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_737": {
+    "original_smiles": "Cc1cn[nH]n1",
+    "scaffold": "[1*]-c1:c:n:[nH]:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_738": {
+    "original_smiles": "Cc1n[nH]nn1",
+    "scaffold": "[1*]-c1:n:n:[nH]:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_739": {
+    "original_smiles": "Cc1ccon1",
+    "scaffold": "[1*]-c1:c:c:o:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_740": {
+    "original_smiles": "Cc1ncon1",
+    "scaffold": "[1*]-c1:n:c:o:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_741": {
+    "original_smiles": "Cc1cnon1",
+    "scaffold": "[1*]-c1:c:n:o:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_742": {
+    "original_smiles": "Cc1nnon1",
+    "scaffold": "[1*]-c1:n:n:o:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_743": {
+    "original_smiles": "Cn1cccn1",
+    "scaffold": "[1*]-n1:c:c:c:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_744": {
+    "original_smiles": "Cn1ccnn1",
+    "scaffold": "[1*]-n1:c:c:n:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_745": {
+    "original_smiles": "Cn1cncn1",
+    "scaffold": "[1*]-n1:c:n:c:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_746": {
+    "original_smiles": "Cn1cnnc1",
+    "scaffold": "[1*]-n1:c:n:n:c:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_747": {
+    "original_smiles": "Cn1cnnn1",
+    "scaffold": "[1*]-n1:c:n:n:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_748": {
+    "original_smiles": "Cn1nccn1",
+    "scaffold": "[1*]-n1:n:c:c:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_749": {
+    "original_smiles": "Cn1ncnn1",
+    "scaffold": "[1*]-n1:n:c:n:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_750": {
+    "original_smiles": "Cn1nnnn1",
+    "scaffold": "[1*]-n1:n:n:n:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_755": {
+    "original_smiles": "c1cn[nH]c1N",
+    "scaffold": "[1*]-c1:c:c:n:[nH]:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_756": {
+    "original_smiles": "c1cnoc1N",
+    "scaffold": "[1*]-c1:c:c:n:o:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_757": {
+    "original_smiles": "c1c([nH]nn1)N",
+    "scaffold": "[1*]-c1:c:n:n:[nH]:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_758": {
+    "original_smiles": "c1c(onn1)N",
+    "scaffold": "[1*]-c1:c:n:n:o:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_759": {
+    "original_smiles": "c1c(cn[nH]1)N",
+    "scaffold": "[1*]-c1:c:n:[nH]:c:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_760": {
+    "original_smiles": "c1c(nn[nH]1)N",
+    "scaffold": "[1*]-c1:c:[nH]:n:n:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_761": {
+    "original_smiles": "c1c(con1)N",
+    "scaffold": "[1*]-c1:c:n:o:c:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_762": {
+    "original_smiles": "c1c(nno1)N",
+    "scaffold": "[1*]-c1:c:o:n:n:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_763": {
+    "original_smiles": "c1nc([nH]n1)N",
+    "scaffold": "[1*]-c1:n:c:n:[nH]:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_764": {
+    "original_smiles": "c1nc(on1)N",
+    "scaffold": "[1*]-c1:n:c:n:o:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_765": {
+    "original_smiles": "c1c[nH]nc1N",
+    "scaffold": "[1*]-c1:c:c:[nH]:n:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_766": {
+    "original_smiles": "c1[nH]nc(n1)N",
+    "scaffold": "[1*]-c1:n:c:[nH]:n:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_767": {
+    "original_smiles": "c1c(n[nH]n1)N",
+    "scaffold": "[1*]-c1:c:n:[nH]:n:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_768": {
+    "original_smiles": "c1(n[nH]nn1)N",
+    "scaffold": "[1*]-c1:n:n:[nH]:n:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_769": {
+    "original_smiles": "c1conc1N",
+    "scaffold": "[1*]-c1:c:c:o:n:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_770": {
+    "original_smiles": "c1nc(no1)N",
+    "scaffold": "[1*]-c1:n:c:o:n:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_771": {
+    "original_smiles": "c1c(non1)N",
+    "scaffold": "[1*]-c1:c:n:o:n:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_772": {
+    "original_smiles": "c1(nnon1)N",
+    "scaffold": "[1*]-c1:n:n:o:n:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_779": {
+    "original_smiles": "c1cn[nH]c1O",
+    "scaffold": "[1*]-c1:c:c:n:[nH]:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_780": {
+    "original_smiles": "c1c(cn[nH]1)O",
+    "scaffold": "[1*]-c1:c:n:[nH]:c:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_781": {
+    "original_smiles": "c1c(nn[nH]1)O",
+    "scaffold": "[1*]-c1:c:[nH]:n:n:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_782": {
+    "original_smiles": "c1nc([nH]n1)O",
+    "scaffold": "[1*]-c1:n:c:n:[nH]:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_783": {
+    "original_smiles": "c1c[nH]nc1O",
+    "scaffold": "[1*]-c1:c:c:[nH]:n:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_784": {
+    "original_smiles": "c1[nH]nc(n1)O",
+    "scaffold": "[1*]-c1:n:c:[nH]:n:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_785": {
+    "original_smiles": "c1c(n[nH]n1)O",
+    "scaffold": "[1*]-c1:c:n:[nH]:n:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_786": {
+    "original_smiles": "c1(n[nH]nn1)O",
+    "scaffold": "[1*]-c1:n:n:[nH]:n:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_787": {
+    "original_smiles": "c1conc1O",
+    "scaffold": "[1*]-c1:c:c:o:n:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_788": {
+    "original_smiles": "c1nc(no1)O",
+    "scaffold": "[1*]-c1:n:c:o:n:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_789": {
+    "original_smiles": "c1(nnon1)O",
+    "scaffold": "[1*]-c1:n:n:o:n:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_801": {
+    "original_smiles": "CC1CC(C1)=NO",
+    "scaffold": "[1*]-C1-C-C(=N-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_802": {
+    "original_smiles": "CN1CC(=NO)C1",
+    "scaffold": "[1*]-N1-C-C(=N-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_803": {
+    "original_smiles": "ON=C1CC(O)C1",
+    "scaffold": "[1*]-N=C1-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[OH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_809": {
+    "original_smiles": "CC1CCC1=NO",
+    "scaffold": "[1*]-C1-C-C-C-1=N-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_810": {
+    "original_smiles": "CC1NCC1=NO",
+    "scaffold": "[1*]-C1-N-C-C-1=N-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_811": {
+    "original_smiles": "CC1OCC1=NO",
+    "scaffold": "[1*]-C1-O-C-C-1=N-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_812": {
+    "original_smiles": "ON=C1CCC1O",
+    "scaffold": "[1*]-N=C1-C-C-C-1-[2*]",
+    "fragments": [
+      "[1*]-[OH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_813": {
+    "original_smiles": "C1C=CCC1=NO",
+    "scaffold": "[1*]-N=C1-C-C=C-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_814": {
+    "original_smiles": "C1CC(=NO)C=C1",
+    "scaffold": "[1*]-N=C1-C=C-C-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_815": {
+    "original_smiles": "C1C(=NO)C=CN1",
+    "scaffold": "[1*]-N=C1-C=C-N-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_816": {
+    "original_smiles": "C1CCC(=NO)C1",
+    "scaffold": "[1*]-N=C1-C-C-C-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_817": {
+    "original_smiles": "C1COCC1=NO",
+    "scaffold": "[1*]-N=C1-C-C-O-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_818": {
+    "original_smiles": "CC(=NO)C1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[C](-[CH3])=[N]-[OH]"
+    ]
+  },
+  "molecule_819": {
+    "original_smiles": "CC(=NO)C1CN1",
+    "scaffold": "[1*]-C1-C-N-1",
+    "fragments": [
+      "[1*]-[C](-[CH3])=[N]-[OH]"
+    ]
+  },
+  "molecule_820": {
+    "original_smiles": "CC(=NO)C1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[C](-[CH3])=[N]-[OH]"
+    ]
+  },
+  "molecule_821": {
+    "original_smiles": "ON=C1CC2CC12",
+    "scaffold": "[1*]-N=C1-C-C2-C-C-1-2",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_822": {
+    "original_smiles": "ON=C1CC2NC12",
+    "scaffold": "[1*]-N=C1-C-C2-N-C-1-2",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_823": {
+    "original_smiles": "ON=C1CC2OC12",
+    "scaffold": "[1*]-N=C1-C-C2-O-C-1-2",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_824": {
+    "original_smiles": "ON=C1CN2CC12",
+    "scaffold": "[1*]-N=C1-C-N2-C-C-1-2",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_831": {
+    "original_smiles": "Cc1cc([nH]c1)C",
+    "scaffold": "[1*]-c1:c:[nH]:c(-[2*]):c:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_832": {
+    "original_smiles": "Cc1cc(oc1)C",
+    "scaffold": "[1*]-c1:c:o:c(-[2*]):c:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_833": {
+    "original_smiles": "Cc1cc(c[nH]1)N",
+    "scaffold": "[1*]-c1:c:c(-[2*]):c:[nH]:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_834": {
+    "original_smiles": "Cc1cc(co1)N",
+    "scaffold": "[1*]-c1:c:c(-[2*]):c:o:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_835": {
+    "original_smiles": "Cc1cc(c[nH]1)O",
+    "scaffold": "[1*]-c1:c:c(-[2*]):c:[nH]:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_836": {
+    "original_smiles": "Cc1cc(co1)O",
+    "scaffold": "[1*]-c1:c:c(-[2*]):c:o:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_837": {
+    "original_smiles": "Cc1cc([nH]c1)N",
+    "scaffold": "[1*]-c1:c:[nH]:c(-[2*]):c:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_838": {
+    "original_smiles": "Cc1cc([nH]c1)O",
+    "scaffold": "[1*]-c1:c:[nH]:c(-[2*]):c:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_839": {
+    "original_smiles": "Cc1c[nH]c(n1)O",
+    "scaffold": "[1*]-c1:c:[nH]:c(-[2*]):n:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_840": {
+    "original_smiles": "Cc1cc(oc1)N",
+    "scaffold": "[1*]-c1:c:o:c(-[2*]):c:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_841": {
+    "original_smiles": "Cc1coc(n1)N",
+    "scaffold": "[1*]-c1:c:o:c(-[2*]):n:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_842": {
+    "original_smiles": "Cc1coc(n1)O",
+    "scaffold": "[1*]-c1:c:o:c(-[2*]):n:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_843": {
+    "original_smiles": "Cc1c[nH]c(n1)C",
+    "scaffold": "[1*]-c1:c:[nH]:c(-[2*]):n:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_844": {
+    "original_smiles": "Cc1coc(n1)C",
+    "scaffold": "[1*]-c1:c:o:c(-[2*]):n:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_845": {
+    "original_smiles": "Cc1nc(co1)N",
+    "scaffold": "[1*]-c1:n:c(-[2*]):c:o:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_846": {
+    "original_smiles": "Cc1[nH]cc(n1)O",
+    "scaffold": "[1*]-c1:n:c(-[2*]):c:[nH]:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_847": {
+    "original_smiles": "Cc1nc(co1)O",
+    "scaffold": "[1*]-c1:n:c(-[2*]):c:o:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_848": {
+    "original_smiles": "c1c(c[nH]c1N)N",
+    "scaffold": "[1*]-c1:c:[nH]:c(-[2*]):c:1",
+    "fragments": [
+      "[2*]-[NH2]",
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_849": {
+    "original_smiles": "c1c(coc1N)N",
+    "scaffold": "[1*]-c1:c:o:c(-[2*]):c:1",
+    "fragments": [
+      "[2*]-[NH2]",
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_850": {
+    "original_smiles": "c1c(c[nH]c1N)O",
+    "scaffold": "[1*]-c1:c:[nH]:c(-[2*]):c:1",
+    "fragments": [
+      "[2*]-[NH2]",
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_851": {
+    "original_smiles": "c1c(coc1N)O",
+    "scaffold": "[1*]-c1:c:o:c(-[2*]):c:1",
+    "fragments": [
+      "[2*]-[NH2]",
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_852": {
+    "original_smiles": "c1c(c[nH]c1O)N",
+    "scaffold": "[1*]-c1:c:[nH]:c(-[2*]):c:1",
+    "fragments": [
+      "[2*]-[OH]",
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_853": {
+    "original_smiles": "c1c(nc([nH]1)O)N",
+    "scaffold": "[1*]-c1:c:[nH]:c(-[2*]):n:1",
+    "fragments": [
+      "[2*]-[OH]",
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_854": {
+    "original_smiles": "c1c(nc(o1)O)N",
+    "scaffold": "[1*]-c1:c:o:c(-[2*]):n:1",
+    "fragments": [
+      "[2*]-[OH]",
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_855": {
+    "original_smiles": "c1c(nc(o1)N)N",
+    "scaffold": "[1*]-c1:c:o:c(-[2*]):n:1",
+    "fragments": [
+      "[2*]-[NH2]",
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_856": {
+    "original_smiles": "c1c(nc([nH]1)N)O",
+    "scaffold": "[1*]-c1:c:[nH]:c(-[2*]):n:1",
+    "fragments": [
+      "[2*]-[NH2]",
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_857": {
+    "original_smiles": "c1c(nc(o1)N)O",
+    "scaffold": "[1*]-c1:c:o:c(-[2*]):n:1",
+    "fragments": [
+      "[2*]-[NH2]",
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_858": {
+    "original_smiles": "c1c(c[nH]c1O)O",
+    "scaffold": "[1*]-c1:c:[nH]:c(-[2*]):c:1",
+    "fragments": [
+      "[2*]-[OH]",
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_859": {
+    "original_smiles": "c1c(nc([nH]1)O)O",
+    "scaffold": "[1*]-c1:c:[nH]:c(-[2*]):n:1",
+    "fragments": [
+      "[2*]-[OH]",
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_860": {
+    "original_smiles": "Cc1ccc([nH]1)C",
+    "scaffold": "[1*]-c1:c:c:c(-[2*]):[nH]:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_861": {
+    "original_smiles": "Cc1ccc(o1)C",
+    "scaffold": "[1*]-c1:c:c:c(-[2*]):o:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_862": {
+    "original_smiles": "Cc1ccc([nH]1)N",
+    "scaffold": "[1*]-c1:c:c:c(-[2*]):[nH]:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_863": {
+    "original_smiles": "Cc1ccc(o1)N",
+    "scaffold": "[1*]-c1:c:c:c(-[2*]):o:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_864": {
+    "original_smiles": "Cc1ccc([nH]1)O",
+    "scaffold": "[1*]-c1:c:c:c(-[2*]):[nH]:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_865": {
+    "original_smiles": "Cc1cnc(o1)C",
+    "scaffold": "[1*]-c1:c:n:c(-[2*]):o:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_866": {
+    "original_smiles": "Cc1cnc(o1)N",
+    "scaffold": "[1*]-c1:c:n:c(-[2*]):o:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_867": {
+    "original_smiles": "Cc1cnc([nH]1)O",
+    "scaffold": "[1*]-c1:c:n:c(-[2*]):[nH]:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_868": {
+    "original_smiles": "Cc1cnc(o1)O",
+    "scaffold": "[1*]-c1:c:n:c(-[2*]):o:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_869": {
+    "original_smiles": "Cc1ncc(o1)N",
+    "scaffold": "[1*]-c1:n:c:c(-[2*]):o:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_870": {
+    "original_smiles": "Cc1[nH]c(cn1)O",
+    "scaffold": "[1*]-c1:n:c:c(-[2*]):[nH]:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_871": {
+    "original_smiles": "c1cc([nH]c1N)N",
+    "scaffold": "[1*]-c1:c:c:c(-[2*]):[nH]:1",
+    "fragments": [
+      "[2*]-[NH2]",
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_872": {
+    "original_smiles": "c1cc(oc1N)N",
+    "scaffold": "[1*]-c1:c:c:c(-[2*]):o:1",
+    "fragments": [
+      "[2*]-[NH2]",
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_873": {
+    "original_smiles": "c1cc([nH]c1N)O",
+    "scaffold": "[1*]-c1:c:c:c(-[2*]):[nH]:1",
+    "fragments": [
+      "[2*]-[NH2]",
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_874": {
+    "original_smiles": "c1cc(oc1N)O",
+    "scaffold": "[1*]-c1:c:c:c(-[2*]):o:1",
+    "fragments": [
+      "[2*]-[NH2]",
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_875": {
+    "original_smiles": "c1c(oc(n1)N)N",
+    "scaffold": "[1*]-c1:c:n:c(-[2*]):o:1",
+    "fragments": [
+      "[2*]-[NH2]",
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_876": {
+    "original_smiles": "c1c([nH]c(n1)O)N",
+    "scaffold": "[1*]-c1:c:n:c(-[2*]):[nH]:1",
+    "fragments": [
+      "[2*]-[OH]",
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_877": {
+    "original_smiles": "c1c(oc(n1)O)N",
+    "scaffold": "[1*]-c1:c:n:c(-[2*]):o:1",
+    "fragments": [
+      "[2*]-[OH]",
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_878": {
+    "original_smiles": "c1cc([nH]c1O)O",
+    "scaffold": "[1*]-c1:c:c:c(-[2*]):[nH]:1",
+    "fragments": [
+      "[2*]-[OH]",
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_879": {
+    "original_smiles": "c1c([nH]c(n1)O)O",
+    "scaffold": "[1*]-c1:c:n:c(-[2*]):[nH]:1",
+    "fragments": [
+      "[2*]-[OH]",
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_880": {
+    "original_smiles": "CC1=CNC(=N)O1",
+    "scaffold": "[1*]-c1:c:[nH]:c(=N):o:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_881": {
+    "original_smiles": "Cc1c[nH]c(=O)[nH]1",
+    "scaffold": "[1*]-c1:c:[nH]:c(=O):[nH]:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_882": {
+    "original_smiles": "Cc1c[nH]c(=O)o1",
+    "scaffold": "[1*]-c1:c:[nH]:c(=O):o:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_883": {
+    "original_smiles": "CC1=COC(=N)N1",
+    "scaffold": "[1*]-c1:c:o:c(=N):[nH]:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_884": {
+    "original_smiles": "CC1=COC(=N)O1",
+    "scaffold": "[1*]-c1:c:o:c(=N):o:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_885": {
+    "original_smiles": "Cc1coc(=O)[nH]1",
+    "scaffold": "[1*]-c1:c:o:c(=O):[nH]:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_886": {
+    "original_smiles": "Cc1coc(=O)o1",
+    "scaffold": "[1*]-c1:c:o:c(=O):o:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_887": {
+    "original_smiles": "NC1=CNC(=N)O1",
+    "scaffold": "[1*]-c1:c:[nH]:c(=N):o:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_888": {
+    "original_smiles": "c1c([nH]c(=O)[nH]1)N",
+    "scaffold": "[1*]-c1:c:[nH]:c(=O):[nH]:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_889": {
+    "original_smiles": "c1c(oc(=O)[nH]1)N",
+    "scaffold": "[1*]-c1:c:[nH]:c(=O):o:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_890": {
+    "original_smiles": "NC1=COC(=N)O1",
+    "scaffold": "[1*]-c1:c:o:c(=N):o:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_891": {
+    "original_smiles": "c1c([nH]c(=O)o1)N",
+    "scaffold": "[1*]-c1:c:o:c(=O):[nH]:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_892": {
+    "original_smiles": "c1c(oc(=O)o1)N",
+    "scaffold": "[1*]-c1:c:o:c(=O):o:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_893": {
+    "original_smiles": "OC1=CNC(=N)O1",
+    "scaffold": "[1*]-c1:c:[nH]:c(=N):o:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_894": {
+    "original_smiles": "c1c([nH]c(=O)[nH]1)O",
+    "scaffold": "[1*]-c1:c:[nH]:c(=O):[nH]:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_895": {
+    "original_smiles": "c1c(oc(=O)[nH]1)O",
+    "scaffold": "[1*]-c1:c:[nH]:c(=O):o:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_896": {
+    "original_smiles": "OC1=COC(=N)N1",
+    "scaffold": "[1*]-c1:c:o:c(=N):[nH]:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_897": {
+    "original_smiles": "OC1=COC(=N)O1",
+    "scaffold": "[1*]-c1:c:o:c(=N):o:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_898": {
+    "original_smiles": "c1c(oc(=O)o1)O",
+    "scaffold": "[1*]-c1:c:o:c(=O):o:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_899": {
+    "original_smiles": "Cc1ccn(c1)C",
+    "scaffold": "[1*]-c1:c:c:n(-[2*]):c:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_900": {
+    "original_smiles": "Cn1ccc(c1)N",
+    "scaffold": "[1*]-n1:c:c:c(-[2*]):c:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_901": {
+    "original_smiles": "Cn1ccc(c1)O",
+    "scaffold": "[1*]-n1:c:c:c(-[2*]):c:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_902": {
+    "original_smiles": "Cc1cn(cn1)C",
+    "scaffold": "[1*]-c1:c:n(-[2*]):c:n:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_903": {
+    "original_smiles": "Cn1cc(nc1)N",
+    "scaffold": "[1*]-n1:c:n:c(-[2*]):c:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_904": {
+    "original_smiles": "Cn1cc(nc1)O",
+    "scaffold": "[1*]-n1:c:n:c(-[2*]):c:1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_929": {
+    "original_smiles": "Cc1ccccc1",
+    "scaffold": "[1*]-c1:c:c:c:c:c:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_930": {
+    "original_smiles": "Cc1ccncc1",
+    "scaffold": "[1*]-c1:c:c:n:c:c:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_931": {
+    "original_smiles": "Cc1cccnc1",
+    "scaffold": "[1*]-c1:c:c:c:n:c:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_932": {
+    "original_smiles": "Cc1cnccn1",
+    "scaffold": "[1*]-c1:c:n:c:c:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_933": {
+    "original_smiles": "Cc1cncnc1",
+    "scaffold": "[1*]-c1:c:n:c:n:c:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_934": {
+    "original_smiles": "Cc1ccccn1",
+    "scaffold": "[1*]-c1:c:c:c:c:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_935": {
+    "original_smiles": "Cc1ncccn1",
+    "scaffold": "[1*]-c1:n:c:c:c:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_936": {
+    "original_smiles": "Cc1cnccn1",
+    "scaffold": "[1*]-c1:c:n:c:c:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_937": {
+    "original_smiles": "Cc1ccncn1",
+    "scaffold": "[1*]-c1:c:c:n:c:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_938": {
+    "original_smiles": "Cc1ncncn1",
+    "scaffold": "[1*]-c1:n:c:n:c:n:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_939": {
+    "original_smiles": "c1ccc(cc1)N",
+    "scaffold": "[1*]-c1:c:c:c:c:c:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_940": {
+    "original_smiles": "c1cc(cnc1)N",
+    "scaffold": "[1*]-c1:c:c:c:n:c:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_941": {
+    "original_smiles": "c1cnc(cn1)N",
+    "scaffold": "[1*]-c1:c:n:c:c:n:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_942": {
+    "original_smiles": "c1c(cncn1)N",
+    "scaffold": "[1*]-c1:c:n:c:n:c:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_943": {
+    "original_smiles": "c1ccnc(c1)N",
+    "scaffold": "[1*]-c1:c:c:c:c:n:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_944": {
+    "original_smiles": "c1cnc(nc1)N",
+    "scaffold": "[1*]-c1:n:c:c:c:n:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_945": {
+    "original_smiles": "c1cnc(cn1)N",
+    "scaffold": "[1*]-c1:c:n:c:c:n:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_946": {
+    "original_smiles": "c1cncnc1N",
+    "scaffold": "[1*]-c1:c:c:n:c:n:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_947": {
+    "original_smiles": "c1ncnc(n1)N",
+    "scaffold": "[1*]-c1:n:c:n:c:n:1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_948": {
+    "original_smiles": "c1ccc(cc1)O",
+    "scaffold": "[1*]-c1:c:c:c:c:c:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_949": {
+    "original_smiles": "c1cnccc1O",
+    "scaffold": "[1*]-c1:c:c:n:c:c:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_950": {
+    "original_smiles": "c1cc(cnc1)O",
+    "scaffold": "[1*]-c1:c:c:c:n:c:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_951": {
+    "original_smiles": "c1cnc(cn1)O",
+    "scaffold": "[1*]-c1:c:n:c:c:n:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_952": {
+    "original_smiles": "c1c(cncn1)O",
+    "scaffold": "[1*]-c1:c:n:c:n:c:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_953": {
+    "original_smiles": "c1ccnc(c1)O",
+    "scaffold": "[1*]-c1:c:c:c:c:n:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_954": {
+    "original_smiles": "c1cnc(nc1)O",
+    "scaffold": "[1*]-c1:n:c:c:c:n:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_955": {
+    "original_smiles": "c1cnc(cn1)O",
+    "scaffold": "[1*]-c1:c:n:c:c:n:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_956": {
+    "original_smiles": "c1cncnc1O",
+    "scaffold": "[1*]-c1:c:c:n:c:n:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_957": {
+    "original_smiles": "c1ncnc(n1)O",
+    "scaffold": "[1*]-c1:n:c:n:c:n:1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_958": {
+    "original_smiles": "Cc1cc[nH]c1C",
+    "scaffold": "[1*]-c1:c:c:[nH]:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_959": {
+    "original_smiles": "Cc1ccoc1C",
+    "scaffold": "[1*]-c1:c:c:o:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_960": {
+    "original_smiles": "Cc1c(nc[nH]1)C",
+    "scaffold": "[1*]-c1:[nH]:c:n:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_961": {
+    "original_smiles": "Cc1c(ocn1)C",
+    "scaffold": "[1*]-c1:n:c:o:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_962": {
+    "original_smiles": "Cc1c(cc[nH]1)N",
+    "scaffold": "[1*]-c1:[nH]:c:c:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_963": {
+    "original_smiles": "Cc1c(cco1)N",
+    "scaffold": "[1*]-c1:o:c:c:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_964": {
+    "original_smiles": "Cc1c(nco1)N",
+    "scaffold": "[1*]-c1:o:c:n:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_965": {
+    "original_smiles": "Cc1cc[nH]c1N",
+    "scaffold": "[1*]-c1:c:c:[nH]:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_966": {
+    "original_smiles": "Cc1ccoc1N",
+    "scaffold": "[1*]-c1:c:c:o:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_967": {
+    "original_smiles": "Cc1c(ocn1)N",
+    "scaffold": "[1*]-c1:n:c:o:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_968": {
+    "original_smiles": "Cc1c(cc[nH]1)O",
+    "scaffold": "[1*]-c1:[nH]:c:c:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_969": {
+    "original_smiles": "Cc1c(cco1)O",
+    "scaffold": "[1*]-c1:o:c:c:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_970": {
+    "original_smiles": "Cc1c(nc[nH]1)O",
+    "scaffold": "[1*]-c1:[nH]:c:n:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_971": {
+    "original_smiles": "Cc1c(nco1)O",
+    "scaffold": "[1*]-c1:o:c:n:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_972": {
+    "original_smiles": "Cc1cc[nH]c1O",
+    "scaffold": "[1*]-c1:c:c:[nH]:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_973": {
+    "original_smiles": "Cc1c([nH]cn1)O",
+    "scaffold": "[1*]-c1:n:c:[nH]:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_974": {
+    "original_smiles": "c1coc(c1N)N",
+    "scaffold": "[1*]-c1:o:c:c:c:1-[2*]",
+    "fragments": [
+      "[2*]-[NH2]",
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_975": {
+    "original_smiles": "c1nc(c(o1)N)N",
+    "scaffold": "[1*]-c1:n:c:o:c:1-[2*]",
+    "fragments": [
+      "[2*]-[NH2]",
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_976": {
+    "original_smiles": "c1c[nH]c(c1O)N",
+    "scaffold": "[1*]-c1:[nH]:c:c:c:1-[2*]",
+    "fragments": [
+      "[2*]-[OH]",
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_977": {
+    "original_smiles": "c1coc(c1O)N",
+    "scaffold": "[1*]-c1:o:c:c:c:1-[2*]",
+    "fragments": [
+      "[2*]-[OH]",
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_978": {
+    "original_smiles": "c1[nH]c(c(n1)O)N",
+    "scaffold": "[1*]-c1:[nH]:c:n:c:1-[2*]",
+    "fragments": [
+      "[2*]-[OH]",
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_979": {
+    "original_smiles": "c1nc(c(o1)N)O",
+    "scaffold": "[1*]-c1:n:c:o:c:1-[2*]",
+    "fragments": [
+      "[2*]-[NH2]",
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_980": {
+    "original_smiles": "c1c[nH]c(c1N)O",
+    "scaffold": "[1*]-c1:[nH]:c:c:c:1-[2*]",
+    "fragments": [
+      "[2*]-[NH2]",
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_981": {
+    "original_smiles": "c1[nH]c(c(n1)N)O",
+    "scaffold": "[1*]-c1:[nH]:c:n:c:1-[2*]",
+    "fragments": [
+      "[2*]-[NH2]",
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_982": {
+    "original_smiles": "c1coc(c1N)O",
+    "scaffold": "[1*]-c1:o:c:c:c:1-[2*]",
+    "fragments": [
+      "[2*]-[NH2]",
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_983": {
+    "original_smiles": "c1c[nH]c(c1O)O",
+    "scaffold": "[1*]-c1:[nH]:c:c:c:1-[2*]",
+    "fragments": [
+      "[2*]-[OH]",
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_984": {
+    "original_smiles": "c1[nH]c(c(n1)O)O",
+    "scaffold": "[1*]-c1:[nH]:c:n:c:1-[2*]",
+    "fragments": [
+      "[2*]-[OH]",
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_985": {
+    "original_smiles": "Cc1c[nH]cc1C",
+    "scaffold": "[1*]-c1:c:[nH]:c:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_986": {
+    "original_smiles": "Cc1c[nH]cc1N",
+    "scaffold": "[1*]-c1:c:[nH]:c:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_987": {
+    "original_smiles": "Cc1c[nH]cc1O",
+    "scaffold": "[1*]-c1:c:[nH]:c:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_988": {
+    "original_smiles": "Cc1cocc1C",
+    "scaffold": "[1*]-c1:c:o:c:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_989": {
+    "original_smiles": "Cc1cocc1N",
+    "scaffold": "[1*]-c1:c:o:c:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_990": {
+    "original_smiles": "c1c(c(c[nH]1)N)N",
+    "scaffold": "[1*]-c1:c:[nH]:c:c:1-[2*]",
+    "fragments": [
+      "[2*]-[NH2]",
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_991": {
+    "original_smiles": "c1c(c(c[nH]1)O)N",
+    "scaffold": "[1*]-c1:c:[nH]:c:c:1-[2*]",
+    "fragments": [
+      "[2*]-[OH]",
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_992": {
+    "original_smiles": "c1c(c(co1)N)N",
+    "scaffold": "[1*]-c1:c:o:c:c:1-[2*]",
+    "fragments": [
+      "[2*]-[NH2]",
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_993": {
+    "original_smiles": "c1c(c(c[nH]1)O)O",
+    "scaffold": "[1*]-c1:c:[nH]:c:c:1-[2*]",
+    "fragments": [
+      "[2*]-[OH]",
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_994": {
+    "original_smiles": "Cc1cccn1C",
+    "scaffold": "[1*]-c1:c:c:c:n:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_995": {
+    "original_smiles": "Cn1cccc1N",
+    "scaffold": "[1*]-n1:c:c:c:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_996": {
+    "original_smiles": "Cn1cccc1O",
+    "scaffold": "[1*]-n1:c:c:c:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_997": {
+    "original_smiles": "Cc1nccn1C",
+    "scaffold": "[1*]-c1:n:c:c:n:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_998": {
+    "original_smiles": "Cn1ccnc1O",
+    "scaffold": "[1*]-n1:c:c:n:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_999": {
+    "original_smiles": "Cc1cncn1C",
+    "scaffold": "[1*]-c1:c:n:c:n:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1000": {
+    "original_smiles": "Cn1cncc1O",
+    "scaffold": "[1*]-n1:c:n:c:c:1-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1001": {
+    "original_smiles": "Cn1cc[nH]c1=O",
+    "scaffold": "[1*]-n1:c:c:[nH]:c:1=O",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1002": {
+    "original_smiles": "CN1C=COC1=N",
+    "scaffold": "[1*]-n1:c:c:o:c:1=N",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1003": {
+    "original_smiles": "Cn1ccoc1=O",
+    "scaffold": "[1*]-n1:c:c:o:c:1=O",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1004": {
+    "original_smiles": "C#Cc1ccc[nH]1",
+    "scaffold": "[1*]-c1:c:c:c:[nH]:1",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1005": {
+    "original_smiles": "C#Cc1ccco1",
+    "scaffold": "[1*]-c1:c:c:c:o:1",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1006": {
+    "original_smiles": "C#Cc1cnc[nH]1",
+    "scaffold": "[1*]-c1:c:n:c:[nH]:1",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1007": {
+    "original_smiles": "C#Cc1cnco1",
+    "scaffold": "[1*]-c1:c:n:c:o:1",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1008": {
+    "original_smiles": "C#Cc1[nH]ccn1",
+    "scaffold": "[1*]-c1:n:c:c:[nH]:1",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1009": {
+    "original_smiles": "C#Cc1ncco1",
+    "scaffold": "[1*]-c1:n:c:c:o:1",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1010": {
+    "original_smiles": "c1cc([nH]c1)C#N",
+    "scaffold": "[1*]-c1:c:c:c:[nH]:1",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_1011": {
+    "original_smiles": "c1cc(oc1)C#N",
+    "scaffold": "[1*]-c1:c:c:c:o:1",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_1012": {
+    "original_smiles": "c1c([nH]cn1)C#N",
+    "scaffold": "[1*]-c1:c:n:c:[nH]:1",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_1013": {
+    "original_smiles": "c1c(ocn1)C#N",
+    "scaffold": "[1*]-c1:c:n:c:o:1",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_1014": {
+    "original_smiles": "c1cnc([nH]1)C#N",
+    "scaffold": "[1*]-c1:n:c:c:[nH]:1",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_1015": {
+    "original_smiles": "c1coc(n1)C#N",
+    "scaffold": "[1*]-c1:n:c:c:o:1",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_1016": {
+    "original_smiles": "C#Cc1cc[nH]c1",
+    "scaffold": "[1*]-c1:c:c:[nH]:c:1",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1017": {
+    "original_smiles": "C#Cc1c[nH]cn1",
+    "scaffold": "[1*]-c1:c:[nH]:c:n:1",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1018": {
+    "original_smiles": "C#Cc1ccoc1",
+    "scaffold": "[1*]-c1:c:c:o:c:1",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1019": {
+    "original_smiles": "C#Cc1cocn1",
+    "scaffold": "[1*]-c1:c:o:c:n:1",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1020": {
+    "original_smiles": "c1c[nH]cc1C#N",
+    "scaffold": "[1*]-c1:c:c:[nH]:c:1",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_1021": {
+    "original_smiles": "c1c(nc[nH]1)C#N",
+    "scaffold": "[1*]-c1:c:[nH]:c:n:1",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_1022": {
+    "original_smiles": "c1cocc1C#N",
+    "scaffold": "[1*]-c1:c:c:o:c:1",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_1023": {
+    "original_smiles": "c1c(nco1)C#N",
+    "scaffold": "[1*]-c1:c:o:c:n:1",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_1024": {
+    "original_smiles": "c1cc([nH]c1)C=O",
+    "scaffold": "[1*]-c1:c:c:c:[nH]:1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1025": {
+    "original_smiles": "c1cc(oc1)C=O",
+    "scaffold": "[1*]-c1:c:c:c:o:1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1026": {
+    "original_smiles": "c1c([nH]cn1)C=O",
+    "scaffold": "[1*]-c1:c:n:c:[nH]:1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1027": {
+    "original_smiles": "c1c(ocn1)C=O",
+    "scaffold": "[1*]-c1:c:n:c:o:1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1028": {
+    "original_smiles": "c1cnc([nH]1)C=O",
+    "scaffold": "[1*]-c1:n:c:c:[nH]:1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1029": {
+    "original_smiles": "c1coc(n1)C=O",
+    "scaffold": "[1*]-c1:n:c:c:o:1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1030": {
+    "original_smiles": "c1c[nH]cc1C=O",
+    "scaffold": "[1*]-c1:c:c:[nH]:c:1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1031": {
+    "original_smiles": "c1c(nc[nH]1)C=O",
+    "scaffold": "[1*]-c1:c:[nH]:c:n:1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1032": {
+    "original_smiles": "c1cocc1C=O",
+    "scaffold": "[1*]-c1:c:c:o:c:1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1033": {
+    "original_smiles": "c1c(nco1)C=O",
+    "scaffold": "[1*]-c1:c:o:c:n:1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1034": {
+    "original_smiles": "c1ccn(c1)C=O",
+    "scaffold": "[1*]-n1:c:c:c:c:1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1035": {
+    "original_smiles": "c1cn(cn1)C=O",
+    "scaffold": "[1*]-n1:c:c:n:c:1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1036": {
+    "original_smiles": "CN=c1[nH]cco1",
+    "scaffold": "[1*]-N=c1:[nH]:c:c:o:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1037": {
+    "original_smiles": "CN=c1occo1",
+    "scaffold": "[1*]-N=c1:o:c:c:o:1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1038": {
+    "original_smiles": "CCc1ccc[nH]1",
+    "scaffold": "[1*]-c1:c:c:c:[nH]:1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_1039": {
+    "original_smiles": "CCc1ccco1",
+    "scaffold": "[1*]-c1:c:c:c:o:1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_1040": {
+    "original_smiles": "CCc1cnco1",
+    "scaffold": "[1*]-c1:c:n:c:o:1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_1041": {
+    "original_smiles": "CCc1[nH]ccn1",
+    "scaffold": "[1*]-c1:n:c:c:[nH]:1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_1042": {
+    "original_smiles": "CCc1ncco1",
+    "scaffold": "[1*]-c1:n:c:c:o:1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_1043": {
+    "original_smiles": "CNc1ccc[nH]1",
+    "scaffold": "[1*]-c1:c:c:c:[nH]:1",
+    "fragments": [
+      "[1*]-[NH]-[CH3]"
+    ]
+  },
+  "molecule_1044": {
+    "original_smiles": "CNc1ccco1",
+    "scaffold": "[1*]-c1:c:c:c:o:1",
+    "fragments": [
+      "[1*]-[NH]-[CH3]"
+    ]
+  },
+  "molecule_1045": {
+    "original_smiles": "CNc1cnco1",
+    "scaffold": "[1*]-c1:c:n:c:o:1",
+    "fragments": [
+      "[1*]-[NH]-[CH3]"
+    ]
+  },
+  "molecule_1046": {
+    "original_smiles": "CNc1ncco1",
+    "scaffold": "[1*]-c1:n:c:c:o:1",
+    "fragments": [
+      "[1*]-[NH]-[CH3]"
+    ]
+  },
+  "molecule_1047": {
+    "original_smiles": "COc1ccc[nH]1",
+    "scaffold": "[1*]-c1:c:c:c:[nH]:1",
+    "fragments": [
+      "[1*]-[O]-[CH3]"
+    ]
+  },
+  "molecule_1048": {
+    "original_smiles": "COc1ccco1",
+    "scaffold": "[1*]-c1:c:c:c:o:1",
+    "fragments": [
+      "[1*]-[O]-[CH3]"
+    ]
+  },
+  "molecule_1049": {
+    "original_smiles": "COc1cnc[nH]1",
+    "scaffold": "[1*]-c1:c:n:c:[nH]:1",
+    "fragments": [
+      "[1*]-[O]-[CH3]"
+    ]
+  },
+  "molecule_1050": {
+    "original_smiles": "COc1cnco1",
+    "scaffold": "[1*]-c1:c:n:c:o:1",
+    "fragments": [
+      "[1*]-[O]-[CH3]"
+    ]
+  },
+  "molecule_1051": {
+    "original_smiles": "COc1[nH]ccn1",
+    "scaffold": "[1*]-c1:n:c:c:[nH]:1",
+    "fragments": [
+      "[1*]-[O]-[CH3]"
+    ]
+  },
+  "molecule_1052": {
+    "original_smiles": "COc1ncco1",
+    "scaffold": "[1*]-c1:n:c:c:o:1",
+    "fragments": [
+      "[1*]-[O]-[CH3]"
+    ]
+  },
+  "molecule_1053": {
+    "original_smiles": "c1coc(n1)CN",
+    "scaffold": "[1*]-c1:n:c:c:o:1",
+    "fragments": [
+      "[1*]-[CH2]-[NH2]"
+    ]
+  },
+  "molecule_1054": {
+    "original_smiles": "c1cc([nH]c1)CO",
+    "scaffold": "[1*]-c1:c:c:c:[nH]:1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1055": {
+    "original_smiles": "c1cc(oc1)CO",
+    "scaffold": "[1*]-c1:c:c:c:o:1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1056": {
+    "original_smiles": "c1c([nH]cn1)CO",
+    "scaffold": "[1*]-c1:c:n:c:[nH]:1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1057": {
+    "original_smiles": "c1c(ocn1)CO",
+    "scaffold": "[1*]-c1:c:n:c:o:1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1058": {
+    "original_smiles": "c1cnc([nH]1)CO",
+    "scaffold": "[1*]-c1:n:c:c:[nH]:1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1059": {
+    "original_smiles": "c1coc(n1)CO",
+    "scaffold": "[1*]-c1:n:c:c:o:1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1060": {
+    "original_smiles": "CCc1cc[nH]c1",
+    "scaffold": "[1*]-c1:c:c:[nH]:c:1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_1061": {
+    "original_smiles": "CCc1c[nH]cn1",
+    "scaffold": "[1*]-c1:c:[nH]:c:n:1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_1062": {
+    "original_smiles": "CCc1ccoc1",
+    "scaffold": "[1*]-c1:c:c:o:c:1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_1063": {
+    "original_smiles": "CCc1cocn1",
+    "scaffold": "[1*]-c1:c:o:c:n:1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_1064": {
+    "original_smiles": "CNc1cc[nH]c1",
+    "scaffold": "[1*]-c1:c:c:[nH]:c:1",
+    "fragments": [
+      "[1*]-[NH]-[CH3]"
+    ]
+  },
+  "molecule_1065": {
+    "original_smiles": "CNc1c[nH]cn1",
+    "scaffold": "[1*]-c1:c:[nH]:c:n:1",
+    "fragments": [
+      "[1*]-[NH]-[CH3]"
+    ]
+  },
+  "molecule_1066": {
+    "original_smiles": "CNc1ccoc1",
+    "scaffold": "[1*]-c1:c:c:o:c:1",
+    "fragments": [
+      "[1*]-[NH]-[CH3]"
+    ]
+  },
+  "molecule_1067": {
+    "original_smiles": "CNc1cocn1",
+    "scaffold": "[1*]-c1:c:o:c:n:1",
+    "fragments": [
+      "[1*]-[NH]-[CH3]"
+    ]
+  },
+  "molecule_1068": {
+    "original_smiles": "COc1cc[nH]c1",
+    "scaffold": "[1*]-c1:c:c:[nH]:c:1",
+    "fragments": [
+      "[1*]-[O]-[CH3]"
+    ]
+  },
+  "molecule_1069": {
+    "original_smiles": "COc1c[nH]cn1",
+    "scaffold": "[1*]-c1:c:[nH]:c:n:1",
+    "fragments": [
+      "[1*]-[O]-[CH3]"
+    ]
+  },
+  "molecule_1070": {
+    "original_smiles": "COc1ccoc1",
+    "scaffold": "[1*]-c1:c:c:o:c:1",
+    "fragments": [
+      "[1*]-[O]-[CH3]"
+    ]
+  },
+  "molecule_1071": {
+    "original_smiles": "COc1cocn1",
+    "scaffold": "[1*]-c1:c:o:c:n:1",
+    "fragments": [
+      "[1*]-[O]-[CH3]"
+    ]
+  },
+  "molecule_1072": {
+    "original_smiles": "c1c[nH]cc1CO",
+    "scaffold": "[1*]-c1:c:c:[nH]:c:1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1073": {
+    "original_smiles": "c1c(nc[nH]1)CO",
+    "scaffold": "[1*]-c1:c:[nH]:c:n:1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1074": {
+    "original_smiles": "c1cocc1CO",
+    "scaffold": "[1*]-c1:c:c:o:c:1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1075": {
+    "original_smiles": "c1c(nco1)CO",
+    "scaffold": "[1*]-c1:c:o:c:n:1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1076": {
+    "original_smiles": "CCn1cccc1",
+    "scaffold": "[1*]-n1:c:c:c:c:1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_1077": {
+    "original_smiles": "CCn1ccnc1",
+    "scaffold": "[1*]-n1:c:c:n:c:1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_1133": {
+    "original_smiles": "CC1(C)CC(=N)O1",
+    "scaffold": "[1*]-C1(-[2*])-C-C(=N)-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1134": {
+    "original_smiles": "CC1(CC(=O)C1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1135": {
+    "original_smiles": "CC1(CC(=O)N1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-C(=O)-N-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1136": {
+    "original_smiles": "CC1(CC(=O)O1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-C(=O)-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1137": {
+    "original_smiles": "CC1(CC(=O)C1)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1138": {
+    "original_smiles": "CC1(CC(C1)O)C",
+    "scaffold": "[1*]-C1(-[2*])-C-C(-[3*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[3*]-[OH]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1139": {
+    "original_smiles": "CC1(O)CC(O)C1",
+    "scaffold": "[1*]-C1(-[2*])-C-C(-[3*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]",
+      "[3*]-[OH]"
+    ]
+  },
+  "molecule_1140": {
+    "original_smiles": "CC1CC(C1)(C)C",
+    "scaffold": "[1*]-C1-C-C(-[2*])(-[3*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH3]"
+    ]
+  },
+  "molecule_1141": {
+    "original_smiles": "CC1CC(C)(C)O1",
+    "scaffold": "[1*]-C1-C-C(-[2*])(-[3*])-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH3]"
+    ]
+  },
+  "molecule_1142": {
+    "original_smiles": "CC1CC(C)(O)C1",
+    "scaffold": "[1*]-C1-C-C(-[2*])(-[3*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[OH]"
+    ]
+  },
+  "molecule_1143": {
+    "original_smiles": "CC1(CN(C1)C)O",
+    "scaffold": "[1*]-C1(-[2*])-C-N(-[3*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[3*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1144": {
+    "original_smiles": "CC1(CC1(C)C)C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1(-[3*])-[4*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[3*]-[CH3]",
+      "[4*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1145": {
+    "original_smiles": "CC1(C)CC1(C)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1(-[3*])-[4*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH3]",
+      "[4*]-[OH]"
+    ]
+  },
+  "molecule_1146": {
+    "original_smiles": "CC1(C(O1)(C)C)C",
+    "scaffold": "[1*]-C1(-[2*])-O-C-1(-[3*])-[4*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[3*]-[CH3]",
+      "[4*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1147": {
+    "original_smiles": "CC1(O)CC1(C)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1(-[3*])-[4*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]",
+      "[3*]-[CH3]",
+      "[4*]-[OH]"
+    ]
+  },
+  "molecule_1148": {
+    "original_smiles": "CC12CC(C)(C1)C2",
+    "scaffold": "[1*]-C12-C-C(-[2*])(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1149": {
+    "original_smiles": "CC12CC(C)(C1)O2",
+    "scaffold": "[1*]-C12-C-C(-[2*])(-C-1)-O-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1150": {
+    "original_smiles": "CC12CC(O)(C1)C2",
+    "scaffold": "[1*]-C12-C-C(-[2*])(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1151": {
+    "original_smiles": "OC12CC(O)(C1)C2",
+    "scaffold": "[1*]-C12-C-C(-[2*])(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[OH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1300": {
+    "original_smiles": "CC1(CCC1=O)C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-C-1=O",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1301": {
+    "original_smiles": "CC1(CNC1=O)C",
+    "scaffold": "[1*]-C1(-[2*])-C-N-C-1=O",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1302": {
+    "original_smiles": "CC1(C)COC1=N",
+    "scaffold": "[1*]-C1(-[2*])-C-O-C-1=N",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1303": {
+    "original_smiles": "CC1(COC1=O)C",
+    "scaffold": "[1*]-C1(-[2*])-C-O-C-1=O",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1304": {
+    "original_smiles": "CC1(C(=O)CN1)C",
+    "scaffold": "[1*]-C1(-[2*])-N-C-C-1=O",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1305": {
+    "original_smiles": "CC1(C(=O)CO1)C",
+    "scaffold": "[1*]-C1(-[2*])-O-C-C-1=O",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1306": {
+    "original_smiles": "CC1(N)COC1=O",
+    "scaffold": "[1*]-C1(-[2*])-C-O-C-1=O",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_1307": {
+    "original_smiles": "CC1(O)CCC1=O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-C-1=O",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1308": {
+    "original_smiles": "CC1(O)CNC1=O",
+    "scaffold": "[1*]-C1(-[2*])-C-N-C-1=O",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1309": {
+    "original_smiles": "CC1(O)COC1=N",
+    "scaffold": "[1*]-C1(-[2*])-C-O-C-1=N",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1310": {
+    "original_smiles": "CC1(O)COC1=O",
+    "scaffold": "[1*]-C1(-[2*])-C-O-C-1=O",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1311": {
+    "original_smiles": "CC1(C)CCC1O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[OH]"
+    ]
+  },
+  "molecule_1312": {
+    "original_smiles": "CC1(C)OCC1O",
+    "scaffold": "[1*]-C1(-[2*])-O-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[OH]"
+    ]
+  },
+  "molecule_1313": {
+    "original_smiles": "CC1(O)CCC1O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]",
+      "[3*]-[OH]"
+    ]
+  },
+  "molecule_1314": {
+    "original_smiles": "CC1CCC1(C)C",
+    "scaffold": "[1*]-C1-C-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH3]"
+    ]
+  },
+  "molecule_1315": {
+    "original_smiles": "CC1CCC1(C)O",
+    "scaffold": "[1*]-C1-C-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[OH]"
+    ]
+  },
+  "molecule_1316": {
+    "original_smiles": "CC1COC1(C)C",
+    "scaffold": "[1*]-C1-C-O-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH3]"
+    ]
+  },
+  "molecule_1317": {
+    "original_smiles": "CC1OCC1(C)C",
+    "scaffold": "[1*]-C1-O-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH3]"
+    ]
+  },
+  "molecule_1318": {
+    "original_smiles": "CC1OCC1(C)O",
+    "scaffold": "[1*]-C1-O-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[OH]"
+    ]
+  },
+  "molecule_1319": {
+    "original_smiles": "CC1(C)CC1C#C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1320": {
+    "original_smiles": "CC1(C)CC1C#N",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[C]#[N]"
+    ]
+  },
+  "molecule_1321": {
+    "original_smiles": "CC1(C)NC1C#C",
+    "scaffold": "[1*]-C1(-[2*])-N-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1322": {
+    "original_smiles": "CC1(C)NC1C#N",
+    "scaffold": "[1*]-C1(-[2*])-N-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[C]#[N]"
+    ]
+  },
+  "molecule_1323": {
+    "original_smiles": "CC1(C)OC1C#C",
+    "scaffold": "[1*]-C1(-[2*])-O-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1324": {
+    "original_smiles": "CC1(C)OC1C#N",
+    "scaffold": "[1*]-C1(-[2*])-O-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[C]#[N]"
+    ]
+  },
+  "molecule_1325": {
+    "original_smiles": "CC1(O)CC1C#C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]",
+      "[3*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1326": {
+    "original_smiles": "CC1(O)CC1C#N",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]",
+      "[3*]-[C]#[N]"
+    ]
+  },
+  "molecule_1327": {
+    "original_smiles": "CC1(C)CC1C=O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1328": {
+    "original_smiles": "CC1(CN1C=O)C",
+    "scaffold": "[1*]-C1(-[2*])-C-N-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[3*]-[CH]=[O]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1329": {
+    "original_smiles": "CC1(C)NC1C=O",
+    "scaffold": "[1*]-C1(-[2*])-N-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1330": {
+    "original_smiles": "CC1(C)OC1C=O",
+    "scaffold": "[1*]-C1(-[2*])-O-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1331": {
+    "original_smiles": "CC1(O)CC1C=O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]",
+      "[3*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1332": {
+    "original_smiles": "CC1(C)CC1CO",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1333": {
+    "original_smiles": "CC1(C)NC1CO",
+    "scaffold": "[1*]-C1(-[2*])-N-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1334": {
+    "original_smiles": "CC1(C)OC1CO",
+    "scaffold": "[1*]-C1(-[2*])-O-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1335": {
+    "original_smiles": "CC1(O)CC1CO",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]",
+      "[3*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1336": {
+    "original_smiles": "CCC1CC1(C)C",
+    "scaffold": "[1*]-C1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH3]"
+    ]
+  },
+  "molecule_1337": {
+    "original_smiles": "CCC1CC1(C)O",
+    "scaffold": "[1*]-C1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[OH]"
+    ]
+  },
+  "molecule_1338": {
+    "original_smiles": "CCC1OC1(C)C",
+    "scaffold": "[1*]-C1-O-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH3]"
+    ]
+  },
+  "molecule_1339": {
+    "original_smiles": "CCN1CC1(C)C",
+    "scaffold": "[1*]-N1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH3]"
+    ]
+  },
+  "molecule_1340": {
+    "original_smiles": "COC1CC1(C)C",
+    "scaffold": "[1*]-C1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[O]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH3]"
+    ]
+  },
+  "molecule_1341": {
+    "original_smiles": "COC1CC1(C)O",
+    "scaffold": "[1*]-C1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[O]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[OH]"
+    ]
+  },
+  "molecule_1342": {
+    "original_smiles": "CC1(CC=CC1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-C=C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1343": {
+    "original_smiles": "CC1(CN=CO1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-N=C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1344": {
+    "original_smiles": "CC1(O)CC=CC1",
+    "scaffold": "[1*]-C1(-[2*])-C-C=C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1345": {
+    "original_smiles": "CC1(CCC=C1)C",
+    "scaffold": "[1*]-C1(-[2*])-C=C-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1346": {
+    "original_smiles": "CC1(COC=N1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-O-C=N-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1347": {
+    "original_smiles": "CC1(C=CCO1)C",
+    "scaffold": "[1*]-C1(-[2*])-C=C-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1348": {
+    "original_smiles": "CC1(O)CCC=C1",
+    "scaffold": "[1*]-C1(-[2*])-C=C-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1349": {
+    "original_smiles": "CC1(CCCC1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1350": {
+    "original_smiles": "CC1(CCCO1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1351": {
+    "original_smiles": "CC1(CCOC1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1352": {
+    "original_smiles": "CC1(COCO1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-O-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1353": {
+    "original_smiles": "CC1(OCCO1)C",
+    "scaffold": "[1*]-C1(-[2*])-O-C-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1354": {
+    "original_smiles": "CC1(CCCC1)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1355": {
+    "original_smiles": "CC1(O)CCOC1",
+    "scaffold": "[1*]-C1(-[2*])-C-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1356": {
+    "original_smiles": "CC1(C)C(O)C1O",
+    "scaffold": "[1*]-C1(-[2*])-C(-[3*])-C-1-[4*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[OH]",
+      "[4*]-[OH]"
+    ]
+  },
+  "molecule_1357": {
+    "original_smiles": "CC1(O)C(O)C1O",
+    "scaffold": "[1*]-C1(-[2*])-C(-[3*])-C-1-[4*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]",
+      "[3*]-[OH]",
+      "[4*]-[OH]"
+    ]
+  },
+  "molecule_1358": {
+    "original_smiles": "CC1C(C)C1(C)C",
+    "scaffold": "[1*]-C1-C(-[2*])-C-1(-[3*])-[4*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH3]",
+      "[4*]-[CH3]"
+    ]
+  },
+  "molecule_1359": {
+    "original_smiles": "CC1C(C)C1(C)O",
+    "scaffold": "[1*]-C1-C(-[2*])-C-1(-[3*])-[4*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH3]",
+      "[4*]-[OH]"
+    ]
+  },
+  "molecule_1360": {
+    "original_smiles": "CC1C(O)C1(C)C",
+    "scaffold": "[1*]-C1-C(-[2*])-C-1(-[3*])-[4*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]",
+      "[3*]-[CH3]",
+      "[4*]-[CH3]"
+    ]
+  },
+  "molecule_1361": {
+    "original_smiles": "CC1C(O)C1(C)O",
+    "scaffold": "[1*]-C1-C(-[2*])-C-1(-[3*])-[4*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]",
+      "[3*]-[CH3]",
+      "[4*]-[OH]"
+    ]
+  },
+  "molecule_1362": {
+    "original_smiles": "CC1N(C)C1(C)C",
+    "scaffold": "[1*]-C1-N(-[2*])-C-1(-[3*])-[4*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH3]",
+      "[4*]-[CH3]"
+    ]
+  },
+  "molecule_1696": {
+    "original_smiles": "CC1(CCC1)C#C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1697": {
+    "original_smiles": "CC1(CCC1)C#N",
+    "scaffold": "[1*]-C1(-[2*])-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[N]"
+    ]
+  },
+  "molecule_1698": {
+    "original_smiles": "CC1(CCN1)C#N",
+    "scaffold": "[1*]-C1(-[2*])-C-C-N-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[N]"
+    ]
+  },
+  "molecule_1699": {
+    "original_smiles": "CC1(CCO1)C#C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1700": {
+    "original_smiles": "CC1(CCO1)C#N",
+    "scaffold": "[1*]-C1(-[2*])-C-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[N]"
+    ]
+  },
+  "molecule_1701": {
+    "original_smiles": "CC1(COC1)C#C",
+    "scaffold": "[1*]-C1(-[2*])-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1702": {
+    "original_smiles": "CC1(COC1)C#N",
+    "scaffold": "[1*]-C1(-[2*])-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[N]"
+    ]
+  },
+  "molecule_1703": {
+    "original_smiles": "C1CC(C1)(C#N)N",
+    "scaffold": "[1*]-C1(-[2*])-C-C-C-1",
+    "fragments": [
+      "[1*]-[C]#[N]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_1704": {
+    "original_smiles": "C1C(CN1)(C#N)N",
+    "scaffold": "[1*]-C1(-[2*])-C-N-C-1",
+    "fragments": [
+      "[1*]-[C]#[N]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_1705": {
+    "original_smiles": "C1C(CO1)(C#N)N",
+    "scaffold": "[1*]-C1(-[2*])-C-O-C-1",
+    "fragments": [
+      "[1*]-[C]#[N]",
+      "[2*]-[NH2]"
+    ]
+  },
+  "molecule_1706": {
+    "original_smiles": "C#CC1(CCC1)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-C-1",
+    "fragments": [
+      "[1*]-[C]#[CH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1707": {
+    "original_smiles": "C1CC(C1)(C#N)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-C-1",
+    "fragments": [
+      "[1*]-[C]#[N]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1708": {
+    "original_smiles": "C1C(CN1)(C#N)O",
+    "scaffold": "[1*]-C1(-[2*])-C-N-C-1",
+    "fragments": [
+      "[1*]-[C]#[N]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1709": {
+    "original_smiles": "C#CC1(COC1)O",
+    "scaffold": "[1*]-C1(-[2*])-C-O-C-1",
+    "fragments": [
+      "[1*]-[C]#[CH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1710": {
+    "original_smiles": "C1C(CO1)(C#N)O",
+    "scaffold": "[1*]-C1(-[2*])-C-O-C-1",
+    "fragments": [
+      "[1*]-[C]#[N]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1711": {
+    "original_smiles": "CC1(CCC1)C=O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1712": {
+    "original_smiles": "CC1(CCO1)C=O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1713": {
+    "original_smiles": "CC1(COC1)C=O",
+    "scaffold": "[1*]-C1(-[2*])-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1714": {
+    "original_smiles": "C1CC(C1)(C=O)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH]=[O]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1715": {
+    "original_smiles": "C1C(CO1)(C=O)O",
+    "scaffold": "[1*]-C1(-[2*])-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH]=[O]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1716": {
+    "original_smiles": "CC1(CCC1)CO",
+    "scaffold": "[1*]-C1(-[2*])-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1717": {
+    "original_smiles": "CC1(CO)CCO1",
+    "scaffold": "[1*]-C1(-[2*])-C-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1718": {
+    "original_smiles": "CC1(COC1)CO",
+    "scaffold": "[1*]-C1(-[2*])-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1719": {
+    "original_smiles": "CCC1(CCC1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1720": {
+    "original_smiles": "CCC1(C)CCO1",
+    "scaffold": "[1*]-C1(-[2*])-C-C-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1721": {
+    "original_smiles": "CCC1(COC1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1722": {
+    "original_smiles": "CCC1(CCC1)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1723": {
+    "original_smiles": "CCC1(COC1)O",
+    "scaffold": "[1*]-C1(-[2*])-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1724": {
+    "original_smiles": "CC1(CCC1)OC",
+    "scaffold": "[1*]-C1(-[2*])-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[O]-[CH3]"
+    ]
+  },
+  "molecule_1725": {
+    "original_smiles": "CC1(COC1)OC",
+    "scaffold": "[1*]-C1(-[2*])-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[O]-[CH3]"
+    ]
+  },
+  "molecule_1726": {
+    "original_smiles": "C1CC(C1)(CO)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1727": {
+    "original_smiles": "C1C(CO1)(CO)O",
+    "scaffold": "[1*]-C1(-[2*])-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1728": {
+    "original_smiles": "CC#CC1(CC1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[C]#[C]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1729": {
+    "original_smiles": "CC#CC1(C)CN1",
+    "scaffold": "[1*]-C1(-[2*])-C-N-1",
+    "fragments": [
+      "[1*]-[C]#[C]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1730": {
+    "original_smiles": "CC#CC1(C)CO1",
+    "scaffold": "[1*]-C1(-[2*])-C-O-1",
+    "fragments": [
+      "[1*]-[C]#[C]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1731": {
+    "original_smiles": "CC#CC1(CC1)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[C]#[C]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1732": {
+    "original_smiles": "CC1(CC1)CC#C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[C]#[CH]"
+    ]
+  },
+  "molecule_1733": {
+    "original_smiles": "CC1(CC#C)CN1",
+    "scaffold": "[1*]-C1(-[2*])-C-N-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[C]#[CH]"
+    ]
+  },
+  "molecule_1734": {
+    "original_smiles": "CC1(CC#C)CO1",
+    "scaffold": "[1*]-C1(-[2*])-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[C]#[CH]"
+    ]
+  },
+  "molecule_1735": {
+    "original_smiles": "CC1(CC1)CC#N",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[C]#[N]"
+    ]
+  },
+  "molecule_1736": {
+    "original_smiles": "CC1(CC#N)CN1",
+    "scaffold": "[1*]-C1(-[2*])-C-N-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[C]#[N]"
+    ]
+  },
+  "molecule_1737": {
+    "original_smiles": "CC1(CC#N)CO1",
+    "scaffold": "[1*]-C1(-[2*])-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[C]#[N]"
+    ]
+  },
+  "molecule_1738": {
+    "original_smiles": "C#CCC1(CC1)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[C]#[CH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1739": {
+    "original_smiles": "C1CC1(CC#N)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[C]#[N]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1740": {
+    "original_smiles": "CC1(CC1)NC=O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH]-[CH]=[O]"
+    ]
+  },
+  "molecule_1741": {
+    "original_smiles": "CC1(CC1)OC=O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[O]-[CH]=[O]"
+    ]
+  },
+  "molecule_1742": {
+    "original_smiles": "CC1(CC1)CC=O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[CH]=[O]"
+    ]
+  },
+  "molecule_1743": {
+    "original_smiles": "CC1(CC=O)CN1",
+    "scaffold": "[1*]-C1(-[2*])-C-N-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[CH]=[O]"
+    ]
+  },
+  "molecule_1744": {
+    "original_smiles": "CC1(CC=O)CO1",
+    "scaffold": "[1*]-C1(-[2*])-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[CH]=[O]"
+    ]
+  },
+  "molecule_1745": {
+    "original_smiles": "C1CC1(CC=O)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH]=[O]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1746": {
+    "original_smiles": "CC1(CC1)CCO",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1747": {
+    "original_smiles": "CC1(CCO)CO1",
+    "scaffold": "[1*]-C1(-[2*])-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1748": {
+    "original_smiles": "CCCC1(CC1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH2]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1749": {
+    "original_smiles": "CCCC1(C)CO1",
+    "scaffold": "[1*]-C1(-[2*])-C-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH2]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1750": {
+    "original_smiles": "CCCC1(CC1)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH2]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1751": {
+    "original_smiles": "CCOC1(CC1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[O]-[CH2]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1752": {
+    "original_smiles": "CC1(CC1)COC",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[O]-[CH3]"
+    ]
+  },
+  "molecule_1753": {
+    "original_smiles": "COCC1(C)CN1",
+    "scaffold": "[1*]-C1(-[2*])-C-N-1",
+    "fragments": [
+      "[1*]-[CH2]-[O]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1754": {
+    "original_smiles": "COCC1(C)CO1",
+    "scaffold": "[1*]-C1(-[2*])-C-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[O]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1755": {
+    "original_smiles": "COCC1(CC1)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[O]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1756": {
+    "original_smiles": "C1CC1(CCO)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH2]-[OH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1757": {
+    "original_smiles": "CC1(CC1O)C#C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[3*]-[OH]",
+      "[2*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1758": {
+    "original_smiles": "CC1(CC1O)C#N",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[3*]-[OH]",
+      "[2*]-[C]#[N]"
+    ]
+  },
+  "molecule_1759": {
+    "original_smiles": "CC1CC1(C)C#C",
+    "scaffold": "[1*]-C1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1760": {
+    "original_smiles": "CC1CC1(C)C#N",
+    "scaffold": "[1*]-C1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[C]#[N]"
+    ]
+  },
+  "molecule_1761": {
+    "original_smiles": "CC1CC1(N)C#N",
+    "scaffold": "[1*]-C1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[NH2]",
+      "[3*]-[C]#[N]"
+    ]
+  },
+  "molecule_1762": {
+    "original_smiles": "CC1CC1(O)C#C",
+    "scaffold": "[1*]-C1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]",
+      "[3*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1763": {
+    "original_smiles": "CC1CC1(O)C#N",
+    "scaffold": "[1*]-C1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]",
+      "[3*]-[C]#[N]"
+    ]
+  },
+  "molecule_1764": {
+    "original_smiles": "CC1NC1(C)C#C",
+    "scaffold": "[1*]-C1-N-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1765": {
+    "original_smiles": "CC1NC1(C)C#N",
+    "scaffold": "[1*]-C1-N-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[C]#[N]"
+    ]
+  },
+  "molecule_1766": {
+    "original_smiles": "CC1OC1(C)C#C",
+    "scaffold": "[1*]-C1-O-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1767": {
+    "original_smiles": "CC1OC1(C)C#N",
+    "scaffold": "[1*]-C1-O-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[C]#[N]"
+    ]
+  },
+  "molecule_1768": {
+    "original_smiles": "CN1CC1(C)C#C",
+    "scaffold": "[1*]-N1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1769": {
+    "original_smiles": "CN1CC1(C)C#N",
+    "scaffold": "[1*]-N1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[C]#[N]"
+    ]
+  },
+  "molecule_1770": {
+    "original_smiles": "NC1(CC1O)C#N",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[NH2]",
+      "[3*]-[OH]",
+      "[2*]-[C]#[N]"
+    ]
+  },
+  "molecule_1771": {
+    "original_smiles": "NC1CC1(N)C#N",
+    "scaffold": "[1*]-C1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[NH2]",
+      "[2*]-[NH2]",
+      "[3*]-[C]#[N]"
+    ]
+  },
+  "molecule_1772": {
+    "original_smiles": "NC1CC1(O)C#N",
+    "scaffold": "[1*]-C1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[NH2]",
+      "[2*]-[OH]",
+      "[3*]-[C]#[N]"
+    ]
+  },
+  "molecule_1773": {
+    "original_smiles": "OC1CC1(O)C#C",
+    "scaffold": "[1*]-C1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[OH]",
+      "[2*]-[OH]",
+      "[3*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1774": {
+    "original_smiles": "OC1CC1(O)C#N",
+    "scaffold": "[1*]-C1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[OH]",
+      "[2*]-[OH]",
+      "[3*]-[C]#[N]"
+    ]
+  },
+  "molecule_1775": {
+    "original_smiles": "CC1(CC1O)C=O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[3*]-[OH]",
+      "[2*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1776": {
+    "original_smiles": "CC1CC1(C)C=O",
+    "scaffold": "[1*]-C1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1777": {
+    "original_smiles": "CC1CC1(O)C=O",
+    "scaffold": "[1*]-C1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]",
+      "[3*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1778": {
+    "original_smiles": "CC1NC1(C)C=O",
+    "scaffold": "[1*]-C1-N-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1779": {
+    "original_smiles": "CC1OC1(C)C=O",
+    "scaffold": "[1*]-C1-O-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1780": {
+    "original_smiles": "CN1CC1(C)C=O",
+    "scaffold": "[1*]-N1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1781": {
+    "original_smiles": "OC1CC1(O)C=O",
+    "scaffold": "[1*]-C1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[OH]",
+      "[2*]-[OH]",
+      "[3*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1782": {
+    "original_smiles": "CC1(CO)CC1O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[OH]",
+      "[3*]-[OH]"
+    ]
+  },
+  "molecule_1783": {
+    "original_smiles": "CC1CC1(C)CO",
+    "scaffold": "[1*]-C1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1784": {
+    "original_smiles": "CC1CC1(O)CO",
+    "scaffold": "[1*]-C1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]",
+      "[3*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1785": {
+    "original_smiles": "CC1NC1(C)CO",
+    "scaffold": "[1*]-C1-N-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1786": {
+    "original_smiles": "CC1OC1(C)CO",
+    "scaffold": "[1*]-C1-O-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1787": {
+    "original_smiles": "CCC1(C)CC1C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH3]"
+    ]
+  },
+  "molecule_1788": {
+    "original_smiles": "CCC1(C)CC1O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[OH]"
+    ]
+  },
+  "molecule_1789": {
+    "original_smiles": "CCC1(C)CN1C",
+    "scaffold": "[1*]-C1(-[2*])-C-N-1-[3*]",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH3]"
+    ]
+  },
+  "molecule_1790": {
+    "original_smiles": "CCC1(C)OC1C",
+    "scaffold": "[1*]-C1(-[2*])-O-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH3]"
+    ]
+  },
+  "molecule_1791": {
+    "original_smiles": "CCC1(O)CC1C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[OH]",
+      "[3*]-[CH3]"
+    ]
+  },
+  "molecule_1792": {
+    "original_smiles": "CCC1(O)CC1O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[OH]",
+      "[3*]-[OH]"
+    ]
+  },
+  "molecule_1793": {
+    "original_smiles": "CN1CC1(C)CO",
+    "scaffold": "[1*]-N1-C-C-1(-[2*])-[3*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1794": {
+    "original_smiles": "COC1(C)CC1C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[O]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[CH3]"
+    ]
+  },
+  "molecule_1795": {
+    "original_smiles": "COC1(C)CC1O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[O]-[CH3]",
+      "[2*]-[CH3]",
+      "[3*]-[OH]"
+    ]
+  },
+  "molecule_1796": {
+    "original_smiles": "OCC1(O)CC1O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1-[3*]",
+    "fragments": [
+      "[1*]-[CH2]-[OH]",
+      "[2*]-[OH]",
+      "[3*]-[OH]"
+    ]
+  },
+  "molecule_1797": {
+    "original_smiles": "CC(=O)C1(CC1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[C](-[CH3])=[O]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1798": {
+    "original_smiles": "CC(=O)C1(C)CN1",
+    "scaffold": "[1*]-C1(-[2*])-C-N-1",
+    "fragments": [
+      "[1*]-[C](-[CH3])=[O]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1799": {
+    "original_smiles": "CC(=O)C1(C)CO1",
+    "scaffold": "[1*]-C1(-[2*])-C-O-1",
+    "fragments": [
+      "[1*]-[C](-[CH3])=[O]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1800": {
+    "original_smiles": "CC(=O)C1(CC1)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[C](-[CH3])=[O]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1801": {
+    "original_smiles": "CC1(CC1)C(=O)N",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C](-[NH2])=[O]"
+    ]
+  },
+  "molecule_1802": {
+    "original_smiles": "CC1(CN1)C(N)=O",
+    "scaffold": "[1*]-C1(-[2*])-C-N-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C](-[NH2])=[O]"
+    ]
+  },
+  "molecule_1803": {
+    "original_smiles": "CC1(CO1)C(N)=O",
+    "scaffold": "[1*]-C1(-[2*])-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C](-[NH2])=[O]"
+    ]
+  },
+  "molecule_1804": {
+    "original_smiles": "C1CC1(C(=O)N)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[C](-[NH2])=[O]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1805": {
+    "original_smiles": "[NH3+]C1(CC1)C([O-])=O",
+    "scaffold": "[1*+]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[NH3+]",
+      "[2*]-[C](=[O])-[O-]"
+    ]
+  },
+  "molecule_1806": {
+    "original_smiles": "CC(C)C1(CC1)C",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH](-[CH3])-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1807": {
+    "original_smiles": "CC(C)C1(C)CO1",
+    "scaffold": "[1*]-C1(-[2*])-C-O-1",
+    "fragments": [
+      "[1*]-[CH](-[CH3])-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1808": {
+    "original_smiles": "CC(C)C1(CC1)O",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH](-[CH3])-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1809": {
+    "original_smiles": "CC(O)C1(C)CC1",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH](-[CH3])-[OH]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1810": {
+    "original_smiles": "CC(O)C1(C)CN1",
+    "scaffold": "[1*]-C1(-[2*])-C-N-1",
+    "fragments": [
+      "[1*]-[CH](-[CH3])-[OH]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1811": {
+    "original_smiles": "CC(O)C1(C)CO1",
+    "scaffold": "[1*]-C1(-[2*])-C-O-1",
+    "fragments": [
+      "[1*]-[CH](-[CH3])-[OH]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1812": {
+    "original_smiles": "CC(O)C1(O)CC1",
+    "scaffold": "[1*]-C1(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH](-[CH3])-[OH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1813": {
+    "original_smiles": "CC(C)(C)C1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[C](-[CH3])(-[CH3])-[CH3]"
+    ]
+  },
+  "molecule_1814": {
+    "original_smiles": "CC(C)(C)C1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[C](-[CH3])(-[CH3])-[CH3]"
+    ]
+  },
+  "molecule_1815": {
+    "original_smiles": "CC(C)(C1CC1)O",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[C](-[CH3])(-[CH3])-[OH]"
+    ]
+  },
+  "molecule_1816": {
+    "original_smiles": "CC(C)(O)C1CN1",
+    "scaffold": "[1*]-C1-C-N-1",
+    "fragments": [
+      "[1*]-[C](-[CH3])(-[CH3])-[OH]"
+    ]
+  },
+  "molecule_1817": {
+    "original_smiles": "CC(C)(O)C1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[C](-[CH3])(-[CH3])-[OH]"
+    ]
+  },
+  "molecule_1836": {
+    "original_smiles": "CC1=CC(=N)OC1",
+    "scaffold": "[1*]-C1=C-C(=N)-O-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1837": {
+    "original_smiles": "CC1=CC(=O)CC1",
+    "scaffold": "[1*]-C1=C-C(=O)-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1838": {
+    "original_smiles": "CC1=CC(=O)NC1",
+    "scaffold": "[1*]-C1=C-C(=O)-N-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1839": {
+    "original_smiles": "CC1=CC(=O)OC1",
+    "scaffold": "[1*]-C1=C-C(=O)-O-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1840": {
+    "original_smiles": "NC1=CC(=N)OC1",
+    "scaffold": "[1*]-C1=C-C(=N)-O-C-1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_1841": {
+    "original_smiles": "C1CC(=O)C=C1N",
+    "scaffold": "[1*]-C1=C-C(=O)-C-C-1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_1842": {
+    "original_smiles": "C1C(=CC(=O)N1)N",
+    "scaffold": "[1*]-C1=C-C(=O)-N-C-1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_1843": {
+    "original_smiles": "C1C(=CC(=O)O1)N",
+    "scaffold": "[1*]-C1=C-C(=O)-O-C-1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_1844": {
+    "original_smiles": "CC1=CCC(=O)C1",
+    "scaffold": "[1*]-C1=C-C-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1845": {
+    "original_smiles": "CC1=CCC(=O)N1",
+    "scaffold": "[1*]-C1=C-C-C(=O)-N-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1846": {
+    "original_smiles": "CC1=CNC(=O)C1",
+    "scaffold": "[1*]-C1=C-N-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1847": {
+    "original_smiles": "CC1=NCC(=N)N1",
+    "scaffold": "[1*]-C1=N-C-C(=N)-N-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1848": {
+    "original_smiles": "CC1=NCC(=O)N1",
+    "scaffold": "[1*]-C1=N-C-C(=O)-N-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1849": {
+    "original_smiles": "CC1=NCC(=O)O1",
+    "scaffold": "[1*]-C1=N-C-C(=O)-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1850": {
+    "original_smiles": "C1C(=O)NC(=N1)N",
+    "scaffold": "[1*]-C1=N-C-C(=O)-N-1",
+    "fragments": [
+      "[1*]-[NH2]"
+    ]
+  },
+  "molecule_1851": {
+    "original_smiles": "CC1CC(=O)C=C1",
+    "scaffold": "[1*]-C1-C=C-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1852": {
+    "original_smiles": "CC1NC(=O)C=C1",
+    "scaffold": "[1*]-C1-C=C-C(=O)-N-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1853": {
+    "original_smiles": "CC1OC(=N)C=C1",
+    "scaffold": "[1*]-C1-C=C-C(=N)-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1854": {
+    "original_smiles": "CC1OC(=O)C=C1",
+    "scaffold": "[1*]-C1-C=C-C(=O)-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1855": {
+    "original_smiles": "OC1CC(=O)C=C1",
+    "scaffold": "[1*]-C1-C=C-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_1856": {
+    "original_smiles": "CC1CC(C)C=C1",
+    "scaffold": "[1*]-C1-C=C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1857": {
+    "original_smiles": "CC1CC(O)C=C1",
+    "scaffold": "[1*]-C1-C=C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1858": {
+    "original_smiles": "CC1OC(C)C=C1",
+    "scaffold": "[1*]-C1-C=C-C(-[2*])-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1859": {
+    "original_smiles": "OC1CC(O)C=C1",
+    "scaffold": "[1*]-C1-C=C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[OH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1860": {
+    "original_smiles": "CC1=CCC(O)C1",
+    "scaffold": "[1*]-C1=C-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1861": {
+    "original_smiles": "CC1CC=C(C)C1",
+    "scaffold": "[1*]-C1-C-C=C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1862": {
+    "original_smiles": "CC1CN=C(C)O1",
+    "scaffold": "[1*]-C1-C-N=C(-[2*])-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1863": {
+    "original_smiles": "CC1CC(=O)CO1",
+    "scaffold": "[1*]-C1-C-C(=O)-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1864": {
+    "original_smiles": "CC1CCC(=N)O1",
+    "scaffold": "[1*]-C1-C-C-C(=N)-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1865": {
+    "original_smiles": "CC1CCC(=O)C1",
+    "scaffold": "[1*]-C1-C-C-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1866": {
+    "original_smiles": "CC1CCC(=O)N1",
+    "scaffold": "[1*]-C1-C-C-C(=O)-N-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1867": {
+    "original_smiles": "CC1CCC(=O)O1",
+    "scaffold": "[1*]-C1-C-C-C(=O)-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1868": {
+    "original_smiles": "CC1CNC(=O)C1",
+    "scaffold": "[1*]-C1-C-N-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1869": {
+    "original_smiles": "CC1CNC(=O)N1",
+    "scaffold": "[1*]-C1-C-N-C(=O)-N-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1870": {
+    "original_smiles": "CC1CNC(=O)O1",
+    "scaffold": "[1*]-C1-C-N-C(=O)-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1871": {
+    "original_smiles": "CC1COC(=N)C1",
+    "scaffold": "[1*]-C1-C-O-C(=N)-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1872": {
+    "original_smiles": "CC1COC(=N)O1",
+    "scaffold": "[1*]-C1-C-O-C(=N)-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1873": {
+    "original_smiles": "CC1COC(=O)C1",
+    "scaffold": "[1*]-C1-C-O-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1874": {
+    "original_smiles": "CC1COC(=O)N1",
+    "scaffold": "[1*]-C1-C-O-C(=O)-N-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1875": {
+    "original_smiles": "CC1COC(=O)O1",
+    "scaffold": "[1*]-C1-C-O-C(=O)-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1876": {
+    "original_smiles": "CC1OCC(=N)O1",
+    "scaffold": "[1*]-C1-O-C-C(=N)-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1877": {
+    "original_smiles": "CC1OCC(=O)O1",
+    "scaffold": "[1*]-C1-O-C-C(=O)-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1878": {
+    "original_smiles": "CN1CCC(=O)C1",
+    "scaffold": "[1*]-N1-C-C-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1879": {
+    "original_smiles": "OC1CCC(=O)C1",
+    "scaffold": "[1*]-C1-C-C-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_1880": {
+    "original_smiles": "OC1CNC(=O)C1",
+    "scaffold": "[1*]-C1-C-N-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_1881": {
+    "original_smiles": "OC1COC(=N)C1",
+    "scaffold": "[1*]-C1-C-O-C(=N)-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_1882": {
+    "original_smiles": "OC1COC(=O)C1",
+    "scaffold": "[1*]-C1-C-O-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_1883": {
+    "original_smiles": "CC1=CC(O)CC1",
+    "scaffold": "[1*]-C1=C-C(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1884": {
+    "original_smiles": "CC1CCC(C)=C1",
+    "scaffold": "[1*]-C1-C=C(-[2*])-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1885": {
+    "original_smiles": "CC1COC(C)=N1",
+    "scaffold": "[1*]-C1-C-O-C(-[2*])=N-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1886": {
+    "original_smiles": "CC1OCC(C)=C1",
+    "scaffold": "[1*]-C1-C=C(-[2*])-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1887": {
+    "original_smiles": "CC1CC(O)CO1",
+    "scaffold": "[1*]-C1-C-C(-[2*])-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1888": {
+    "original_smiles": "CC1CCC(C)C1",
+    "scaffold": "[1*]-C1-C-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1889": {
+    "original_smiles": "CC1CCC(C)O1",
+    "scaffold": "[1*]-C1-C-C-C(-[2*])-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1890": {
+    "original_smiles": "CC1CCC(O)C1",
+    "scaffold": "[1*]-C1-C-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1891": {
+    "original_smiles": "CC1COC(C)C1",
+    "scaffold": "[1*]-C1-C-O-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1892": {
+    "original_smiles": "CC1COC(C)O1",
+    "scaffold": "[1*]-C1-C-O-C(-[2*])-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1893": {
+    "original_smiles": "OC1CCC(O)C1",
+    "scaffold": "[1*]-C1-C-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[OH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1894": {
+    "original_smiles": "CC12CC(C1)C2O",
+    "scaffold": "[1*]-C12-C-C(-C-1)-C-2-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1895": {
+    "original_smiles": "CC12CC(O1)C2O",
+    "scaffold": "[1*]-C12-C-C(-O-1)-C-2-[2*]",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1896": {
+    "original_smiles": "CC1C2CC1(C)C2",
+    "scaffold": "[1*]-C1-C2-C-C-1(-[2*])-C-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1897": {
+    "original_smiles": "CC1C2CC1(C)O2",
+    "scaffold": "[1*]-C1-C2-C-C-1(-[2*])-O-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1898": {
+    "original_smiles": "CC1C2CC1(O)C2",
+    "scaffold": "[1*]-C1-C2-C-C-1(-[2*])-C-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1899": {
+    "original_smiles": "CC1N2CC1(C)C2",
+    "scaffold": "[1*]-C1-N2-C-C-1(-[2*])-C-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1900": {
+    "original_smiles": "CC1N2CC1(O)C2",
+    "scaffold": "[1*]-C1-N2-C-C-1(-[2*])-C-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1901": {
+    "original_smiles": "OC1C2CC1(O)C2",
+    "scaffold": "[1*]-C1-C2-C-C-1(-[2*])-C-2",
+    "fragments": [
+      "[1*]-[OH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1902": {
+    "original_smiles": "CC12CC(=O)C1N2",
+    "scaffold": "[1*]-C12-C-C(=O)-C-1-N-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1903": {
+    "original_smiles": "CC12CC(=O)C1O2",
+    "scaffold": "[1*]-C12-C-C(=O)-C-1-O-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1904": {
+    "original_smiles": "CC12CC1C(=N)O2",
+    "scaffold": "[1*]-C12-C-C-1-C(=N)-O-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1905": {
+    "original_smiles": "CC12CC1C(=O)C2",
+    "scaffold": "[1*]-C12-C-C(=O)-C-1-C-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1906": {
+    "original_smiles": "CC12CC1C(=O)N2",
+    "scaffold": "[1*]-C12-C-C-1-C(=O)-N-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1907": {
+    "original_smiles": "CC12CC1C(=O)O2",
+    "scaffold": "[1*]-C12-C-C-1-C(=O)-O-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1908": {
+    "original_smiles": "CC12CN1C(=O)C2",
+    "scaffold": "[1*]-C12-C-C(=O)-N-1-C-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1909": {
+    "original_smiles": "OC12CC1C(=O)C2",
+    "scaffold": "[1*]-C12-C-C(=O)-C-1-C-2",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_1910": {
+    "original_smiles": "CC12CC(O)C1N2",
+    "scaffold": "[1*]-C12-C-C(-[2*])-C-1-N-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1911": {
+    "original_smiles": "CC12CC(O)C1O2",
+    "scaffold": "[1*]-C12-C-C(-[2*])-C-1-O-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1912": {
+    "original_smiles": "CC12CC1C(O)C2",
+    "scaffold": "[1*]-C12-C-C(-[2*])-C-1-C-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1913": {
+    "original_smiles": "CC1CC2(C)CC12",
+    "scaffold": "[1*]-C1-C-C2(-[2*])-C-C-1-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1914": {
+    "original_smiles": "CC1CC2(C)OC12",
+    "scaffold": "[1*]-C1-C-C2(-[2*])-O-C-1-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1915": {
+    "original_smiles": "CC1CC2(O)CC12",
+    "scaffold": "[1*]-C1-C-C2(-[2*])-C-C-1-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1916": {
+    "original_smiles": "CC1OC2(C)CC12",
+    "scaffold": "[1*]-C1-O-C2(-[2*])-C-C-1-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1917": {
+    "original_smiles": "CN1CC2(O)CC12",
+    "scaffold": "[1*]-N1-C-C2(-[2*])-C-C-1-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1918": {
+    "original_smiles": "OC1CC2(O)CC12",
+    "scaffold": "[1*]-C1-C-C2(-[2*])-C-C-1-2",
+    "fragments": [
+      "[1*]-[OH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1919": {
+    "original_smiles": "CC12CC(C1)C=C2",
+    "scaffold": "[1*]-C12-C=C-C(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1920": {
+    "original_smiles": "CC12CC(O1)C=C2",
+    "scaffold": "[1*]-C12-C=C-C(-C-1)-O-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1921": {
+    "original_smiles": "OC12CC(C1)C=C2",
+    "scaffold": "[1*]-C12-C=C-C(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_1922": {
+    "original_smiles": "CC12CC(C1)CC2",
+    "scaffold": "[1*]-C12-C-C-C(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1923": {
+    "original_smiles": "CC12CC(C1)CO2",
+    "scaffold": "[1*]-C12-C-C(-C-O-1)-C-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1924": {
+    "original_smiles": "CC12CC(C1)OC2",
+    "scaffold": "[1*]-C12-C-O-C(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1925": {
+    "original_smiles": "CC12CC(CC1)O2",
+    "scaffold": "[1*]-C12-C-C-C(-C-1)-O-2",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_1926": {
+    "original_smiles": "OC12CC(C1)CC2",
+    "scaffold": "[1*]-C12-C-C-C(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_1927": {
+    "original_smiles": "OC12CC(C1)OC2",
+    "scaffold": "[1*]-C12-C-O-C(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_1928": {
+    "original_smiles": "CC12CC1(C)CC2",
+    "scaffold": "[1*]-C12-C-C-C-1(-[2*])-C-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1929": {
+    "original_smiles": "CC12CC1(C)OC2",
+    "scaffold": "[1*]-C12-C-O-C-1(-[2*])-C-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1930": {
+    "original_smiles": "CC12CC1(O)CC2",
+    "scaffold": "[1*]-C12-C-C-C-1(-[2*])-C-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1931": {
+    "original_smiles": "CC12CC1(O)CO2",
+    "scaffold": "[1*]-C12-C-C-1(-[2*])-C-O-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1932": {
+    "original_smiles": "CC12CCC1(C)N2",
+    "scaffold": "[1*]-C12-C-C-C-1(-[2*])-N-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1933": {
+    "original_smiles": "CC12CCC1(C)O2",
+    "scaffold": "[1*]-C12-C-C-C-1(-[2*])-O-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1934": {
+    "original_smiles": "OC12CC1(O)CC2",
+    "scaffold": "[1*]-C12-C-C-C-1(-[2*])-C-2",
+    "fragments": [
+      "[1*]-[OH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1935": {
+    "original_smiles": "N=C1CC(O1)C#C",
+    "scaffold": "[1*]-C1-C-C(=N)-O-1",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1936": {
+    "original_smiles": "N=C1CC(O1)C#N",
+    "scaffold": "[1*]-C1-C-C(=N)-O-1",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_1937": {
+    "original_smiles": "C#CC1CC(=O)C1",
+    "scaffold": "[1*]-C1-C-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1938": {
+    "original_smiles": "C1C(CC1=O)C#N",
+    "scaffold": "[1*]-C1-C-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_1939": {
+    "original_smiles": "O=C1CC(N1)C#C",
+    "scaffold": "[1*]-C1-C-C(=O)-N-1",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1940": {
+    "original_smiles": "O=C1CC(O1)C#C",
+    "scaffold": "[1*]-C1-C-C(=O)-O-1",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1941": {
+    "original_smiles": "O=C1CC(O1)C#N",
+    "scaffold": "[1*]-C1-C-C(=O)-O-1",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_1942": {
+    "original_smiles": "N=C1CC(O1)C=O",
+    "scaffold": "[1*]-C1-C-C(=N)-O-1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1943": {
+    "original_smiles": "C1C(CC1=O)C=O",
+    "scaffold": "[1*]-C1-C-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1944": {
+    "original_smiles": "O=CC1CC(=O)N1",
+    "scaffold": "[1*]-C1-C-C(=O)-N-1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1945": {
+    "original_smiles": "O=CC1CC(=O)O1",
+    "scaffold": "[1*]-C1-C-C(=O)-O-1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1946": {
+    "original_smiles": "C1C(=O)CN1C=O",
+    "scaffold": "[1*]-N1-C-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1947": {
+    "original_smiles": "CC1CC(C1)C#C",
+    "scaffold": "[1*]-C1-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1948": {
+    "original_smiles": "CC1CC(C1)C#N",
+    "scaffold": "[1*]-C1-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[N]"
+    ]
+  },
+  "molecule_1949": {
+    "original_smiles": "CC1CC(N1)C#N",
+    "scaffold": "[1*]-C1-C-C(-[2*])-N-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[N]"
+    ]
+  },
+  "molecule_1950": {
+    "original_smiles": "CC1CC(O1)C#C",
+    "scaffold": "[1*]-C1-C-C(-[2*])-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1951": {
+    "original_smiles": "CC1CC(O1)C#N",
+    "scaffold": "[1*]-C1-C-C(-[2*])-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[N]"
+    ]
+  },
+  "molecule_1952": {
+    "original_smiles": "CN1CC(C1)C#N",
+    "scaffold": "[1*]-N1-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[C]#[N]"
+    ]
+  },
+  "molecule_1953": {
+    "original_smiles": "OC1CC(C1)C#C",
+    "scaffold": "[1*]-C1-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[OH]",
+      "[2*]-[C]#[CH]"
+    ]
+  },
+  "molecule_1954": {
+    "original_smiles": "OC1CC(C1)C#N",
+    "scaffold": "[1*]-C1-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[OH]",
+      "[2*]-[C]#[N]"
+    ]
+  },
+  "molecule_1955": {
+    "original_smiles": "CC1CC(C1)C=O",
+    "scaffold": "[1*]-C1-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1956": {
+    "original_smiles": "CC1CC(O1)C=O",
+    "scaffold": "[1*]-C1-C-C(-[2*])-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1957": {
+    "original_smiles": "CC1CN(C1)C=O",
+    "scaffold": "[1*]-C1-C-N(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1958": {
+    "original_smiles": "OC1CC(C1)C=O",
+    "scaffold": "[1*]-C1-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[OH]",
+      "[2*]-[CH]=[O]"
+    ]
+  },
+  "molecule_1959": {
+    "original_smiles": "C1C(CN1C=O)O",
+    "scaffold": "[1*]-C1-C-N(-[2*])-C-1",
+    "fragments": [
+      "[2*]-[CH]=[O]",
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_1960": {
+    "original_smiles": "CN=C1CC(C)O1",
+    "scaffold": "[1*]-N=C1-C-C(-[2*])-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1961": {
+    "original_smiles": "CCC1CC(=N)O1",
+    "scaffold": "[1*]-C1-C-C(=N)-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_1962": {
+    "original_smiles": "CCC1CC(=O)C1",
+    "scaffold": "[1*]-C1-C-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_1963": {
+    "original_smiles": "CCC1CC(=O)N1",
+    "scaffold": "[1*]-C1-C-C(=O)-N-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_1964": {
+    "original_smiles": "CCC1CC(=O)O1",
+    "scaffold": "[1*]-C1-C-C(=O)-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_1965": {
+    "original_smiles": "CCN1CC(=O)C1",
+    "scaffold": "[1*]-N1-C-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_1966": {
+    "original_smiles": "COC1CC(=O)C1",
+    "scaffold": "[1*]-C1-C-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[O]-[CH3]"
+    ]
+  },
+  "molecule_1967": {
+    "original_smiles": "OCC1CC(=N)O1",
+    "scaffold": "[1*]-C1-C-C(=N)-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1968": {
+    "original_smiles": "C1C(CC1=O)CO",
+    "scaffold": "[1*]-C1-C-C(=O)-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1969": {
+    "original_smiles": "OCC1CC(=O)N1",
+    "scaffold": "[1*]-C1-C-C(=O)-N-1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1970": {
+    "original_smiles": "OCC1CC(=O)O1",
+    "scaffold": "[1*]-C1-C-C(=O)-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1971": {
+    "original_smiles": "CC1CC(CO)C1",
+    "scaffold": "[1*]-C1-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1972": {
+    "original_smiles": "CC1CC(CO)O1",
+    "scaffold": "[1*]-C1-C-C(-[2*])-O-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_1973": {
+    "original_smiles": "CCC1CC(C)C1",
+    "scaffold": "[1*]-C1-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1974": {
+    "original_smiles": "CCC1CC(C)O1",
+    "scaffold": "[1*]-C1-C-C(-[2*])-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1975": {
+    "original_smiles": "CCC1CC(O)C1",
+    "scaffold": "[1*]-C1-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1976": {
+    "original_smiles": "COC1CC(C)C1",
+    "scaffold": "[1*]-C1-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[O]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_1977": {
+    "original_smiles": "COC1CC(O)C1",
+    "scaffold": "[1*]-C1-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[O]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1978": {
+    "original_smiles": "CN1CC(C1)OC",
+    "scaffold": "[1*]-N1-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[O]-[CH3]"
+    ]
+  },
+  "molecule_1979": {
+    "original_smiles": "OCC1CC(O)C1",
+    "scaffold": "[1*]-C1-C-C(-[2*])-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[OH]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_1980": {
+    "original_smiles": "CC(=N)OC1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[O]-[C](-[CH3])=[NH]"
+    ]
+  },
+  "molecule_1981": {
+    "original_smiles": "CC(=O)CC1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[C](-[CH3])=[O]"
+    ]
+  },
+  "molecule_1982": {
+    "original_smiles": "CC(=O)CC1CN1",
+    "scaffold": "[1*]-C1-C-N-1",
+    "fragments": [
+      "[1*]-[CH2]-[C](-[CH3])=[O]"
+    ]
+  },
+  "molecule_1983": {
+    "original_smiles": "CC(=O)CC1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[C](-[CH3])=[O]"
+    ]
+  },
+  "molecule_1984": {
+    "original_smiles": "CC(=O)CN1CC1",
+    "scaffold": "[1*]-N1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[C](-[CH3])=[O]"
+    ]
+  },
+  "molecule_1985": {
+    "original_smiles": "CC(=O)NC1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[NH]-[C](-[CH3])=[O]"
+    ]
+  },
+  "molecule_1986": {
+    "original_smiles": "CC(=O)OC1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[O]-[C](-[CH3])=[O]"
+    ]
+  },
+  "molecule_1987": {
+    "original_smiles": "C1CC1CC(=O)N",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[C](-[NH2])=[O]"
+    ]
+  },
+  "molecule_1988": {
+    "original_smiles": "NC(=O)CC1CN1",
+    "scaffold": "[1*]-C1-C-N-1",
+    "fragments": [
+      "[1*]-[CH2]-[C](-[NH2])=[O]"
+    ]
+  },
+  "molecule_1989": {
+    "original_smiles": "NC(=O)CC1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[C](-[NH2])=[O]"
+    ]
+  },
+  "molecule_1990": {
+    "original_smiles": "C1CN1CC(=O)N",
+    "scaffold": "[1*]-N1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[C](-[NH2])=[O]"
+    ]
+  },
+  "molecule_1991": {
+    "original_smiles": "C1CC1NC(=O)N",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[NH]-[C](-[NH2])=[O]"
+    ]
+  },
+  "molecule_1992": {
+    "original_smiles": "C1CC1OC(=O)N",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[O]-[C](-[NH2])=[O]"
+    ]
+  },
+  "molecule_1993": {
+    "original_smiles": "[O-]C(=O)CC1C[NH2+]1",
+    "scaffold": "[1*]-C1-C-[NH2+]-1",
+    "fragments": [
+      "[1*]-[CH2]-[C](=[O])-[O-]"
+    ]
+  },
+  "molecule_1994": {
+    "original_smiles": "CC(C)CC1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH](-[CH3])-[CH3]"
+    ]
+  },
+  "molecule_1995": {
+    "original_smiles": "CC(C)CC1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH](-[CH3])-[CH3]"
+    ]
+  },
+  "molecule_1996": {
+    "original_smiles": "CC(C)CN1CC1",
+    "scaffold": "[1*]-N1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH](-[CH3])-[CH3]"
+    ]
+  },
+  "molecule_1997": {
+    "original_smiles": "CC(C)OC1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[O]-[CH](-[CH3])-[CH3]"
+    ]
+  },
+  "molecule_1998": {
+    "original_smiles": "CC(O)CC1CC1",
+    "scaffold": "[1*]-C1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH](-[CH3])-[OH]"
+    ]
+  },
+  "molecule_1999": {
+    "original_smiles": "CC(O)CC1CO1",
+    "scaffold": "[1*]-C1-C-O-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH](-[CH3])-[OH]"
+    ]
+  },
+  "molecule_2000": {
+    "original_smiles": "CC(O)CN1CC1",
+    "scaffold": "[1*]-N1-C-C-1",
+    "fragments": [
+      "[1*]-[CH2]-[CH](-[CH3])-[OH]"
+    ]
+  },
+  "molecule_2001": {
+    "original_smiles": "C#CC12CC(C1)C2",
+    "scaffold": "[1*]-C12-C-C(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_2002": {
+    "original_smiles": "C#CC12CC(C1)O2",
+    "scaffold": "[1*]-C12-C-C(-C-1)-O-2",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_2003": {
+    "original_smiles": "C#CC12CN(C1)C2",
+    "scaffold": "[1*]-C12-C-N(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[C]#[CH]"
+    ]
+  },
+  "molecule_2004": {
+    "original_smiles": "N#CC12CC(C1)C2",
+    "scaffold": "[1*]-C12-C-C(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_2005": {
+    "original_smiles": "N#CC12CC(C1)N2",
+    "scaffold": "[1*]-C12-C-C(-C-1)-N-2",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_2006": {
+    "original_smiles": "N#CC12CC(C1)O2",
+    "scaffold": "[1*]-C12-C-C(-C-1)-O-2",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_2007": {
+    "original_smiles": "N#CC12CN(C1)C2",
+    "scaffold": "[1*]-C12-C-N(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[C]#[N]"
+    ]
+  },
+  "molecule_2008": {
+    "original_smiles": "O=CC12CC(C1)C2",
+    "scaffold": "[1*]-C12-C-C(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_2009": {
+    "original_smiles": "O=CC12CC(C1)O2",
+    "scaffold": "[1*]-C12-C-C(-C-1)-O-2",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_2010": {
+    "original_smiles": "O=CC12CN(C1)C2",
+    "scaffold": "[1*]-C12-C-N(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[CH]=[O]"
+    ]
+  },
+  "molecule_2011": {
+    "original_smiles": "CCC12CC(C1)C2",
+    "scaffold": "[1*]-C12-C-C(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_2012": {
+    "original_smiles": "CCC12CC(C1)O2",
+    "scaffold": "[1*]-C12-C-C(-C-1)-O-2",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_2013": {
+    "original_smiles": "CCC12CN(C1)C2",
+    "scaffold": "[1*]-C12-C-N(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[CH2]-[CH3]"
+    ]
+  },
+  "molecule_2014": {
+    "original_smiles": "COC12CC(C1)C2",
+    "scaffold": "[1*]-C12-C-C(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[O]-[CH3]"
+    ]
+  },
+  "molecule_2015": {
+    "original_smiles": "COC12CN(C1)C2",
+    "scaffold": "[1*]-C12-C-N(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[O]-[CH3]"
+    ]
+  },
+  "molecule_2016": {
+    "original_smiles": "OCC12CC(C1)C2",
+    "scaffold": "[1*]-C12-C-C(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_2017": {
+    "original_smiles": "OCC12CC(C1)O2",
+    "scaffold": "[1*]-C12-C-C(-C-1)-O-2",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_2018": {
+    "original_smiles": "OCC12CN(C1)C2",
+    "scaffold": "[1*]-C12-C-N(-C-1)-C-2",
+    "fragments": [
+      "[1*]-[CH2]-[OH]"
+    ]
+  },
+  "molecule_2025": {
+    "original_smiles": "CC1CC2(C1)CC2",
+    "scaffold": "[1*]-C1-C-C2(-C-C-2)-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2026": {
+    "original_smiles": "CC1CC2(CC2)O1",
+    "scaffold": "[1*]-C1-C-C2(-C-C-2)-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2027": {
+    "original_smiles": "CC1CC2(CO2)C1",
+    "scaffold": "[1*]-C1-C-C2(-C-O-2)-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2028": {
+    "original_smiles": "CN1CC2(C1)CN2",
+    "scaffold": "[1*]-N1-C-C2(-C-N-2)-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2029": {
+    "original_smiles": "CN1CC2(C1)CO2",
+    "scaffold": "[1*]-N1-C-C2(-C-O-2)-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2030": {
+    "original_smiles": "C1CC12CC(C2)O",
+    "scaffold": "[1*]-C1-C-C2(-C-C-2)-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_2031": {
+    "original_smiles": "OC1CC2(CN2)C1",
+    "scaffold": "[1*]-C1-C-C2(-C-N-2)-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_2032": {
+    "original_smiles": "OC1CC2(CO2)C1",
+    "scaffold": "[1*]-C1-C-C2(-C-O-2)-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_2033": {
+    "original_smiles": "CC1(C)CC2CC12",
+    "scaffold": "[1*]-C1(-[2*])-C-C2-C-C-2-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_2034": {
+    "original_smiles": "CC1(C)CC2NC12",
+    "scaffold": "[1*]-C1(-[2*])-C-C2-N-C-2-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_2035": {
+    "original_smiles": "CC1(C)CC2OC12",
+    "scaffold": "[1*]-C1(-[2*])-C-C2-O-C-2-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_2036": {
+    "original_smiles": "CC1(C)CN2CC12",
+    "scaffold": "[1*]-C1(-[2*])-C-N2-C-C-2-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_2037": {
+    "original_smiles": "CC1(C)OC2CC12",
+    "scaffold": "[1*]-C1(-[2*])-O-C2-C-C-2-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_2038": {
+    "original_smiles": "CC1(O)CC2CC12",
+    "scaffold": "[1*]-C1(-[2*])-C-C2-C-C-2-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_2039": {
+    "original_smiles": "CC1(O)CC2NC12",
+    "scaffold": "[1*]-C1(-[2*])-C-C2-N-C-2-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_2040": {
+    "original_smiles": "CC1(O)CC2OC12",
+    "scaffold": "[1*]-C1(-[2*])-C-C2-O-C-2-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_2041": {
+    "original_smiles": "CC1(O)CN2CC12",
+    "scaffold": "[1*]-C1(-[2*])-C-N2-C-C-2-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_2042": {
+    "original_smiles": "CC1(C)C2CC1C2",
+    "scaffold": "[1*]-C1(-[2*])-C2-C-C-1-C-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_2043": {
+    "original_smiles": "CC1(C)C2CC1O2",
+    "scaffold": "[1*]-C1(-[2*])-C2-C-C-1-O-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_2044": {
+    "original_smiles": "CC1(O)C2CC1C2",
+    "scaffold": "[1*]-C1(-[2*])-C2-C-C-1-C-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_2045": {
+    "original_smiles": "CC1(O)C2CC1O2",
+    "scaffold": "[1*]-C1(-[2*])-C2-C-C-1-O-2",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_2046": {
+    "original_smiles": "CC1(C)C2CCC12",
+    "scaffold": "[1*]-C1(-[2*])-C2-C-C-C-2-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_2047": {
+    "original_smiles": "CC1(C)C2COC12",
+    "scaffold": "[1*]-C1(-[2*])-C2-C-O-C-2-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_2048": {
+    "original_smiles": "CC1(O)C2CCC12",
+    "scaffold": "[1*]-C1(-[2*])-C2-C-C-C-2-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_2049": {
+    "original_smiles": "CC1(O)C2COC12",
+    "scaffold": "[1*]-C1(-[2*])-C2-C-O-C-2-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[OH]"
+    ]
+  },
+  "molecule_2085": {
+    "original_smiles": "CC1=CCCCC1",
+    "scaffold": "[1*]-C1=C-C-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2086": {
+    "original_smiles": "CC1=CCCOC1",
+    "scaffold": "[1*]-C1=C-C-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2087": {
+    "original_smiles": "CC1=CCOCC1",
+    "scaffold": "[1*]-C1=C-C-O-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2088": {
+    "original_smiles": "CC1=NCCCO1",
+    "scaffold": "[1*]-C1=N-C-C-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2089": {
+    "original_smiles": "CC1CC=CCO1",
+    "scaffold": "[1*]-C1-C-C=C-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2090": {
+    "original_smiles": "CC1CCC=CC1",
+    "scaffold": "[1*]-C1-C-C=C-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2091": {
+    "original_smiles": "CC1CCN=CO1",
+    "scaffold": "[1*]-C1-C-C-N=C-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2092": {
+    "original_smiles": "CC1COC=NC1",
+    "scaffold": "[1*]-C1-C-N=C-O-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2093": {
+    "original_smiles": "OC1CCC=CC1",
+    "scaffold": "[1*]-C1-C-C=C-C-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_2094": {
+    "original_smiles": "OC1COC=NC1",
+    "scaffold": "[1*]-C1-C-N=C-O-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_2095": {
+    "original_smiles": "CC1CCCC=C1",
+    "scaffold": "[1*]-C1-C=C-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2096": {
+    "original_smiles": "CC1CCOC=N1",
+    "scaffold": "[1*]-C1-C-C-O-C=N-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2097": {
+    "original_smiles": "CC1COCC=C1",
+    "scaffold": "[1*]-C1-C=C-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2098": {
+    "original_smiles": "CC1OCCC=C1",
+    "scaffold": "[1*]-C1-C=C-C-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2099": {
+    "original_smiles": "OC1CCCC=C1",
+    "scaffold": "[1*]-C1-C=C-C-C-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_2100": {
+    "original_smiles": "OC1COCC=C1",
+    "scaffold": "[1*]-C1-C=C-C-O-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_2101": {
+    "original_smiles": "CC1CCCCC1",
+    "scaffold": "[1*]-C1-C-C-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2102": {
+    "original_smiles": "CC1CCCCO1",
+    "scaffold": "[1*]-C1-C-C-C-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2103": {
+    "original_smiles": "CC1CCCOC1",
+    "scaffold": "[1*]-C1-C-C-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2104": {
+    "original_smiles": "CC1CCOCC1",
+    "scaffold": "[1*]-C1-C-C-O-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2105": {
+    "original_smiles": "CC1CCOCO1",
+    "scaffold": "[1*]-C1-C-C-O-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2106": {
+    "original_smiles": "CC1COCCO1",
+    "scaffold": "[1*]-C1-C-O-C-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2107": {
+    "original_smiles": "CC1COCOC1",
+    "scaffold": "[1*]-C1-C-O-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2108": {
+    "original_smiles": "CC1OCCCO1",
+    "scaffold": "[1*]-C1-O-C-C-C-O-1",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2109": {
+    "original_smiles": "C1CCC(CC1)O",
+    "scaffold": "[1*]-C1-C-C-C-C-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_2110": {
+    "original_smiles": "OC1CCCOC1",
+    "scaffold": "[1*]-C1-C-C-C-O-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_2111": {
+    "original_smiles": "C1COCCC1O",
+    "scaffold": "[1*]-C1-C-C-O-C-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_2112": {
+    "original_smiles": "C1C(COCO1)O",
+    "scaffold": "[1*]-C1-C-O-C-O-C-1",
+    "fragments": [
+      "[1*]-[OH]"
+    ]
+  },
+  "molecule_2126": {
+    "original_smiles": "CC1=C(CCC1)C",
+    "scaffold": "[1*]-C1=C(-[2*])-C-C-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_2127": {
+    "original_smiles": "CC1=C(COC1)C",
+    "scaffold": "[1*]-C1=C(-[2*])-C-O-C-1",
+    "fragments": [
+      "[1*]-[CH3]",
+      "[2*]-[CH3]"
+    ]
+  },
+  "molecule_2128": {
+    "original_smiles": "CC1=CCCC1=O",
+    "scaffold": "[1*]-C1=C-C-C-C-1=O",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  },
+  "molecule_2129": {
+    "original_smiles": "CC1=CCNC1=O",
+    "scaffold": "[1*]-C1=C-C-N-C-1=O",
+    "fragments": [
+      "[1*]-[CH3]"
+    ]
+  }
+}
