@@ -36,7 +36,6 @@ def factorial(num):
     print(math.factorial(num))
 
 def factorial2(num):
-
     # sleep 2 seconds because it takes very less time
     # so that you can see the actual difference
     time.sleep(2)
